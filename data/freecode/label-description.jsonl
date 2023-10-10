@@ -1,0 +1,162 @@
+{"label": "Monitoring", "description": "Monitoring - Questions related to monitoring systems and tools."}
+{"label": "Networking", "description": "Networking - Questions about computer networks and network protocols."}
+{"label": "Internet", "description": "Internet - Questions related to the functioning and usage of the Internet."}
+{"label": "Log-Analysis", "description": "Log Analysis - Questions about analyzing and interpreting log data from various systems."}
+{"label": "Communications", "description": "Communications - Questions about communication protocols and technologies."}
+{"label": "Email", "description": "Email - Questions related to email systems and email delivery."}
+{"label": "Web", "description": "Web - Questions about web development, web frameworks, and web technologies."}
+{"label": "Software-Development", "description": "Software Development - Questions about software development methodologies, tools, and best practices."}
+{"label": "Quality-Assurance", "description": "Quality Assurance - Questions related to software testing and quality assurance processes."}
+{"label": "Benchmark", "description": "Benchmark - Questions about benchmarking performance and comparing system metrics."}
+{"label": "Scientific/Engineering", "description": "Scientific/Engineering - Questions related to scientific computing, simulations, and engineering applications."}
+{"label": "Testing", "description": "Testing - Questions related to software testing methodologies and tools."}
+{"label": "Information-Management", "description": "Information Management - Questions about organizing and managing information."}
+{"label": "Workflow-Frameworks", "description": "Workflow Frameworks - Questions related to workflow automation and management systems."}
+{"label": "Systems-Administration", "description": "Systems Administration - Questions about managing and maintaining computer systems."}
+{"label": "Office/Business", "description": "Office/Business - Questions related to office productivity software and business tools."}
+{"label": "Filters", "description": "Filters - Questions about filtering data and information."}
+{"label": "Scheduling", "description": "Scheduling - Questions about scheduling and time management."}
+{"label": "Mathematics", "description": "Mathematics - Questions related to mathematical concepts and problem-solving."}
+{"label": "education", "description": "Education - Questions about teaching and educational resources."}
+{"label": "Visualization", "description": "Visualization - Questions about data visualization techniques and tools."}
+{"label": "Utilities", "description": "Utilities - Questions about various utility tools and software."}
+{"label": "DNS", "description": "DNS - Questions related to the Domain Name System."}
+{"label": "Desktop-Environment", "description": "Desktop Environment - Questions about desktop environments and user interfaces."}
+{"label": "Build-Tools", "description": "Build Tools - Questions about software build and compilation tools."}
+{"label": "Documentation", "description": "Documentation - Questions related to creating and maintaining software documentation."}
+{"label": "Clustering/Distributed-Networks", "description": "Clustering/Distributed Networks - Questions about clustering techniques and distributed network systems."}
+{"label": "Graphics", "description": "Graphics - Questions related to computer graphics and image processing."}
+{"label": "Graphics-Conversion", "description": "Graphics Conversion - Questions about converting graphics and image formats."}
+{"label": "Artistic-Software", "description": "Artistic Software - Questions about software tools for digital art and creative design."}
+{"label": "Libraries", "description": "Libraries - Questions about software libraries and their usage."}
+{"label": "Dynamic-Content", "description": "Dynamic Content - Questions about creating and managing dynamic content on websites."}
+{"label": "CGI-Tools/Libraries", "description": "CGI Tools/Libraries - Questions about Common Gateway Interface (CGI) tools and libraries."}
+{"label": "GNOME", "description": "GNOME - Questions related to the GNOME desktop environment and its applications."}
+{"label": "KDE", "description": "KDE - Questions about the KDE desktop environment and its features."}
+{"label": "Games/Entertainment", "description": "Games/Entertainment - Questions about game development and entertainment software."}
+{"label": "mud", "description": "MUD - Questions about Multi-User Dungeons (MUDs) and MUD-based games."}
+{"label": "Role-Playing", "description": "Role-Playing - Questions related to role-playing games (RPGs) and game mechanics."}
+{"label": "Puzzle-Games", "description": "Puzzle Games - Questions about puzzle game design and implementation."}
+{"label": "Archiving", "description": "Archiving - Questions about archiving and data compression."}
+{"label": "Packaging", "description": "Packaging - Questions about software packaging and distribution."}
+{"label": "Mirroring", "description": "Mirroring - Questions related to mirroring data and content."}
+{"label": "backup", "description": "Backup - Questions about data backup and recovery methods."}
+{"label": "Usenet-News", "description": "Usenet News - Questions about Usenet news and newsreader software."}
+{"label": "tools", "description": "Tools - Questions about various software tools and utilities."}
+{"label": "Arcade", "description": "Arcade - Questions related to arcade-style games and game development."}
+{"label": "Chat", "description": "Chat - Questions about chat applications and protocols."}
+{"label": "IRC", "description": "IRC - Questions related to Internet Relay Chat (IRC) networks and clients."}
+{"label": "Security", "description": "Security - Questions about computer security and cybersecurity practices."}
+{"label": "Cryptography", "description": "Cryptography - Questions about cryptographic techniques and algorithms."}
+{"label": "XML", "description": "XML - Questions about Extensible Markup Language (XML) and its usage."}
+{"label": "Compilers", "description": "Compilers - Questions about compiler software and compiler design."}
+{"label": "Financial", "description": "Financial - Questions related to financial software and applications."}
+{"label": "Text-Editors", "description": "Text Editors - Questions about text editing software and text manipulation."}
+{"label": "User-Interfaces", "description": "User Interfaces - Questions about designing and implementing user interfaces for software applications."}
+{"label": "Video", "description": "Video - Questions related to video processing and video editing software."}
+{"label": "Conversion", "description": "Conversion - Questions about data and file format conversion."}
+{"label": "Proxy-Servers", "description": "Proxy Servers - Questions about proxy servers and their usage."}
+{"label": "Mail-Transport-Agents", "description": "Mail Transport Agents - Questions about mail transport agents and email delivery."}
+{"label": "Database", "description": "Database - Questions related to databases and database management systems."}
+{"label": "Database-Engines/Servers", "description": "Database Engines/Servers - Questions about database engine software and server configurations."}
+{"label": "3D-Modeling", "description": "3D Modeling - Questions about creating and designing 3D models."}
+{"label": "3D-Rendering", "description": "3D Rendering - Questions related to rendering 3D scenes and animations."}
+{"label": "Geographical", "description": "Geographical - Questions about geographical information and mapping."}
+{"label": "Site-Management", "description": "Site Management - Questions about managing websites and web applications."}
+{"label": "groupware", "description": "Groupware - Questions about collaborative software and groupware tools."}
+{"label": "Text-Processing", "description": "Text Processing - Questions related to processing and manipulating textual data."}
+{"label": "Emulators", "description": "Emulators - Questions about software emulators for different platforms."}
+{"label": "Shells", "description": "Shells - Questions about command-line shells and shell scripting."}
+{"label": "Logging", "description": "Logging - Questions related to logging and log management."}
+{"label": "Hardware", "description": "Hardware - Questions about computer hardware components and peripherals."}
+{"label": "Sound/Audio", "description": "Sound/Audio - Questions about sound processing and audio manipulation."}
+{"label": "Telephony", "description": "Telephony - Questions related to telephony systems and technologies."}
+{"label": "Front-Ends", "description": "Front-Ends - Questions about front-end development and user interfaces."}
+{"label": "php-classes", "description": "php-classes - Questions about PHP classes and object-oriented programming in PHP."}
+{"label": "Integrated-Development-Environments-(IDE)", "description": "Integrated Development Environments (IDE) - Questions about IDEs and their usage."}
+{"label": "HTML/XHTML", "description": "HTML/XHTML - Questions about HTML and XHTML markup languages."}
+{"label": "Computer-Aided-Instruction-(CAI)", "description": "Computer-Aided Instruction (CAI) - Questions related to computer-based educational systems."}
+{"label": "Artificial-Intelligence", "description": "Artificial Intelligence - Questions about AI techniques and applications."}
+{"label": "Bioinformatics", "description": "Bioinformatics - Questions related to applying computational methods in biological research."}
+{"label": "Code-Generators", "description": "Code Generators - Questions about code generation tools and techniques."}
+{"label": "Interpreters", "description": "Interpreters - Questions about programming language interpreters."}
+{"label": "Widget-Sets", "description": "Widget Sets - Questions about widget sets and graphical user interface (GUI) toolkits."}
+{"label": "Java-Libraries", "description": "Java Libraries - Questions related to Java libraries and their usage."}
+{"label": "Simulation", "description": "Simulation - Questions about simulation techniques and software."}
+{"label": "FTP", "description": "FTP - Questions related to the File Transfer Protocol (FTP) and its implementation."}
+{"label": "Diagnostics", "description": "Diagnostics - Questions about diagnostic tools and techniques."}
+{"label": "POP3", "description": "POP3 - Questions about the Post Office Protocol version 3 (POP3) and email retrieval."}
+{"label": "Operating-System-Kernels", "description": "Operating System Kernels - Questions about operating system kernels and low-level system programming."}
+{"label": "Internet-Phone", "description": "Internet Phone - Questions about internet phone services and VoIP (Voice over Internet Protocol)."}
+{"label": "Firewalls", "description": "Firewalls - Questions about firewall software and network security."}
+{"label": "Conferencing", "description": "Conferencing - Questions about online conferencing and virtual meeting platforms."}
+{"label": "HTTP-Servers", "description": "HTTP Servers - Questions related to web servers and HTTP server software."}
+{"label": "Application-Frameworks", "description": "Application Frameworks - Questions about software application frameworks."}
+{"label": "API", "description": "API - Questions about application programming interfaces (APIs) and their usage."}
+{"label": "Filesystems", "description": "Filesystems - Questions about file systems and storage management."}
+{"label": "Version-Control", "description": "Version Control - Questions related to version control systems and source code management."}
+{"label": "Capture/Recording", "description": "Capture/Recording - Questions about capturing and recording multimedia content."}
+{"label": "Perl-Modules", "description": "Perl Modules - Questions about Perl programming language modules and libraries."}
+{"label": "Software-Distribution-Tools", "description": "Software Distribution Tools - Questions about tools and methods for distributing software."}
+{"label": "File-Sharing", "description": "File Sharing - Questions about file sharing methods and platforms."}
+{"label": "Home-Automation", "description": "Home Automation - Questions about automating and controlling smart home devices."}
+{"label": "Bug-Tracking", "description": "Bug Tracking - Questions about bug tracking and issue management in software development."}
+{"label": "Other/Nonlisted-Topic", "description": "Other/Nonlisted Topic - Questions that don't fit in any specific listed topic category."}
+{"label": "Display", "description": "Display - Questions about display technologies and visual output."}
+{"label": "GPL", "description": "GPL - Questions related to the GNU General Public License and open-source licensing."}
+{"label": "Indexing", "description": "Indexing - Questions about creating and managing indexes for data and information retrieval."}
+{"label": "Indexing/Search", "description": "Indexing/Search - Questions about search indexing and information retrieval."}
+{"label": "Link-Checking", "description": "Link Checking - Questions related to checking and validating links on websites."}
+{"label": "Presentation", "description": "Presentation - Questions about creating and delivering presentations."}
+{"label": "Players", "description": "Players - Questions about media players and multimedia playback."}
+{"label": "MP3", "description": "MP3 - Questions about MP3 audio format and related software."}
+{"label": "Linux-Distributions", "description": "Linux Distributions - Questions about different Linux distributions and their usage."}
+{"label": "Editors", "description": "Editors - Questions about text editors and code editors."}
+{"label": "printing", "description": "Printing - Questions related to printing and print management."}
+{"label": "Boot", "description": "Boot - Questions about the boot process and bootloaders."}
+{"label": "Installation/Setup", "description": "Installation/Setup - Questions about software and system installation and setup procedures."}
+{"label": "php-class", "description": "php-class - Questions about PHP classes and object-oriented programming in PHP."}
+{"label": "Window-Manager", "description": "Window Manager - Questions about window managers and desktop environments."}
+{"label": "Window-Maker", "description": "Window Maker - Questions related to the Window Maker window manager and its features."}
+{"label": "Python-Modules", "description": "Python Modules - Questions about Python programming language modules and libraries."}
+{"label": "Accounting", "description": "Accounting - Questions about accounting software and financial management."}
+{"label": "Document-Repositories", "description": "Document Repositories - Questions about version control and document storage systems."}
+{"label": "Message-Boards", "description": "Message Boards - Questions about online message boards and forum software."}
+{"label": "News/Diary", "description": "News/Diary - Questions about news and diary applications."}
+{"label": "LGPL", "description": "LGPL - Questions related to the Lesser General Public License and open-source licensing."}
+{"label": "Email-Clients-(MUA)", "description": "Email Clients (MUA) - Questions about email client software and handling email messages."}
+{"label": "Object-Brokering", "description": "Object Brokering - Questions about object brokering and middleware systems."}
+{"label": "Astronomy", "description": "Astronomy - Questions about astronomy software and tools."}
+{"label": "Point-Of-Sale", "description": "Point-Of-Sale - Questions about point-of-sale systems and software."}
+{"label": "IMAP", "description": "IMAP - Questions about the Internet Message Access Protocol (IMAP) and email retrieval."}
+{"label": "MIDI", "description": "MIDI - Questions about Musical Instrument Digital Interface (MIDI) and MIDI-related software."}
+{"label": "Sound-Synthesis", "description": "Sound Synthesis - Questions about synthesizing sound and audio generation."}
+{"label": "Embedded-Systems", "description": "Embedded Systems - Questions about embedded systems and microcontroller programming."}
+{"label": "BSD-Original", "description": "BSD Original - Questions related to the original Berkeley Software Distribution (BSD) and its derivatives."}
+{"label": "Ruby-Modules", "description": "Ruby Modules - Questions about Ruby programming language modules and libraries."}
+{"label": "Browsers", "description": "Browsers - Questions about web browsers and browser development."}
+{"label": "Turn-Based-Strategy", "description": "Turn-Based Strategy - Questions about turn-based strategy games and game development."}
+{"label": "GPLv2", "description": "GPLv2 - Questions related to the GNU General Public License version 2 and open-source licensing."}
+{"label": "Recovery-Tools", "description": "Recovery Tools - Questions about data recovery and system repair tools."}
+{"label": "Address-Book", "description": "Address Book - Questions about address book applications and contact management."}
+{"label": "Mailing-List-Servers", "description": "Mailing List Servers - Questions about managing and using mailing list servers."}
+{"label": "Metadata/Semantic-Models", "description": "Metadata/Semantic Models - Questions related to metadata and semantic models for data representation."}
+{"label": "Compression", "description": "Compression - Questions about data compression techniques and algorithms."}
+{"label": "CVS", "description": "CVS - Questions about the Concurrent Versions System (CVS) and version control."}
+{"label": "Debuggers", "description": "Debuggers - Questions about debugging tools and techniques."}
+{"label": "General", "description": "General - General questions that don't fit into specific listed topic categories."}
+{"label": "BBS", "description": "BBS - Questions about Bulletin Board Systems (BBS) and online forums."}
+{"label": "Linguistic", "description": "Linguistic - Questions about computational linguistics and natural language processing."}
+{"label": "GPLv3", "description": "GPLv3 - Questions related to the GNU General Public License version 3 and open-source licensing."}
+{"label": "Records-Management", "description": "Records Management - Questions about managing records and data governance."}
+{"label": "Freeware", "description": "Freeware - Questions about freeware software, which is available for free but may have certain usage restrictions."}
+{"label": "File-Managers", "description": "File Managers - Questions about file manager software and file organization."}
+{"label": "Electronic-Design-Automation-(EDA)", "description": "Electronic Design Automation (EDA) - Questions about EDA tools and software used in electronic circuit design."}
+{"label": "Viewers", "description": "Viewers - Questions about software viewers for various file types."}
+{"label": "Medical-Science", "description": "Medical Science - Questions related to medical software and scientific applications."}
+{"label": "Real-Time-Strategy", "description": "Real-Time Strategy - Questions about real-time strategy (RTS) games and game development."}
+{"label": "Chemistry", "description": "Chemistry - Questions about software and tools used in chemistry research and education."}
+{"label": "TeX/LaTeX", "description": "TeX/LaTeX - Questions about TeX and LaTeX typesetting systems."}
+{"label": "Wiki", "description": "Wiki - Questions about wiki software and wiki platforms."}
+{"label": "First-Person-Shooters", "description": "First-Person Shooters - Questions about first-person shooter (FPS) games and game development."}
+{"label": "Ham-Radio", "description": "Ham Radio - Questions related to amateur radio software and technology."}

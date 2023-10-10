@@ -1,0 +1,853 @@
+{"label": "organic acid", "description": "Organic Acid - Refers to laws or regulations related to organic acids."}
+{"label": "anti-dumping duty", "description": "Anti-dumping Duty - Refers to laws or regulations related to anti-dumping duties on imports."}
+{"label": "China", "description": "China - Refers to laws or regulations specific to China."}
+{"label": "financial equalisation", "description": "Financial Equalisation - Refers to laws or regulations related to the equalization of financial resources among different regions or entities."}
+{"label": "EU production", "description": "EU Production - Refers to laws or regulations related to production activities within the European Union."}
+{"label": "redirection of production", "description": "Redirection of Production - Refers to laws or regulations related to the redirection or relocation of production activities."}
+{"label": "citrus fruit", "description": "Citrus Fruit - Refers to laws or regulations related to citrus fruits."}
+{"label": "own resources", "description": "Own Resources - Refers to laws or regulations related to the financial resources of an organization or entity."}
+{"label": "motor car", "description": "Motor Car - Refers to laws or regulations related to motor vehicles."}
+{"label": "Austria", "description": "Austria - Refers to laws or regulations specific to Austria."}
+{"label": "scientific apparatus", "description": "Scientific Apparatus - Refers to laws or regulations related to scientific equipment and apparatus."}
+{"label": "wage determination", "description": "Wage Determination - Refers to laws or regulations related to the process of determining wages for workers."}
+{"label": "pay rise", "description": "Pay Rise - Refers to laws or regulations related to salary increases or wage adjustments for employees."}
+{"label": "fats", "description": "Fats - Refers to laws or regulations related to fats in food products."}
+{"label": "product quality", "description": "Product Quality - Refers to laws or regulations related to the quality standards of goods or products."}
+{"label": "butter", "description": "Butter - Refers to laws or regulations specific to butter or dairy products."}
+{"label": "product designation", "description": "Product Designation - Refers to laws or regulations related to the designation or labeling of products."}
+{"label": "target price", "description": "Target Price - Refers to laws or regulations related to target prices for agricultural products."}
+{"label": "sunflower", "description": "Sunflower - Refers to laws or regulations specific to sunflower crops or products."}
+{"label": "oil seed rape", "description": "Oil Seed Rape - Refers to laws or regulations related to oilseed rape (canola) crops."}
+{"label": "Sweden", "description": "Sweden - Refers to laws or regulations specific to Sweden."}
+{"label": "fishing area", "description": "Fishing Area - Refers to laws or regulations related to designated fishing areas and fishing activities."}
+{"label": "authorised catch", "description": "Authorised Catch - Refers to laws or regulations related to the permitted or authorized amount of fish or seafood that can be caught."}
+{"label": "parasitology", "description": "Parasitology - Refers to laws or regulations related to the study or control of parasites in plants, animals, or humans."}
+{"label": "conifer", "description": "Conifer - Refers to laws or regulations specific to coniferous trees."}
+{"label": "import restriction", "description": "Import Restriction - Refers to laws or regulations related to restrictions on importing specific goods or products."}
+{"label": "plant health treatment", "description": "Plant Health Treatment - Refers to laws or regulations related to the treatment of plants to prevent or control pests or diseases."}
+{"label": "Canada", "description": "Canada - Refers to laws or regulations specific to Canada."}
+{"label": "South Korea", "description": "South Korea - Refers to laws or regulations specific to South Korea."}
+{"label": "textile product", "description": "Textile Product - Refers to laws or regulations related to textile products and the textile industry."}
+{"label": "man-made fibre", "description": "Man-Made Fibre - Refers to laws or regulations related to synthetic or man-made fibers used in textiles."}
+{"label": "import price", "description": "Import Price - Refers to laws or regulations related to the pricing of imported goods."}
+{"label": "animal plague", "description": "Animal Plague - Refers to laws or regulations related to contagious diseases affecting animals."}
+{"label": "Poland", "description": "Poland - Refers to laws or regulations specific to Poland."}
+{"label": "swine", "description": "Swine - Refers to laws or regulations related to pigs and the swine industry."}
+{"label": "Estonia", "description": "Estonia - Refers to laws or regulations specific to Estonia."}
+{"label": "Latvia", "description": "Latvia - Refers to laws or regulations specific to Latvia."}
+{"label": "Lithuania", "description": "Lithuania - Refers to laws or regulations specific to Lithuania."}
+{"label": "zoonosis", "description": "Zoonosis - Refers to laws or regulations related to diseases that can be transmitted from animals to humans."}
+{"label": "maize", "description": "Maize - Refers to laws or regulations specific to maize (corn) crops."}
+{"label": "barley", "description": "Barley - Refers to laws or regulations specific to barley crops."}
+{"label": "rice", "description": "Rice - Refers to laws or regulations specific to rice crops."}
+{"label": "rye", "description": "Rye - Refers to laws or regulations specific to rye crops."}
+{"label": "oats", "description": "Oats - Refers to laws or regulations specific to oats crops."}
+{"label": "durum wheat", "description": "Durum Wheat - Refers to laws or regulations specific to durum wheat, a type of wheat used in pasta production."}
+{"label": "common wheat", "description": "Common Wheat - Refers to laws or regulations specific to common wheat (bread wheat)."}
+{"label": "tariff quota", "description": "Tariff Quota - Refers to laws or regulations related to the quantity-based tariff systems on imports."}
+{"label": "cattle", "description": "Cattle - Refers to laws or regulations related to cattle farming and trade."}
+{"label": "fattening", "description": "Fattening - Refers to laws or regulations related to the feeding and fattening of animals."}
+{"label": "quantitative restriction", "description": "Quantitative Restriction - Refers to laws or regulations related to limitations on the quantity of specific products that can be imported or exported."}
+{"label": "Liberia", "description": "Liberia - Refers to laws or regulations specific to Liberia."}
+{"label": "EU regional policy", "description": "EU Regional Policy - Refers to laws or regulations related to the European Union's regional development policies."}
+{"label": "Denmark", "description": "Denmark - Refers to laws or regulations specific to Denmark."}
+{"label": "marketing restriction", "description": "Marketing Restriction - Refers to laws or regulations related to restrictions on the marketing or advertising of certain products."}
+{"label": "crop production", "description": "Crop Production - Refers to laws or regulations related to agricultural crop production."}
+{"label": "seed", "description": "Seed - Refers to laws or regulations related to seeds used for planting crops."}
+{"label": "stock-exchange listing", "description": "Stock-Exchange Listing - Refers to laws or regulations related to the listing and trading of companies' stocks on stock exchanges."}
+{"label": "cereals", "description": "Cereals - Refers to laws or regulations specific to cereal crops (grains)."}
+{"label": "United States", "description": "United States - Refers to laws or regulations specific to the United States."}
+{"label": "customs duties", "description": "Customs Duties - Refers to laws or regulations related to taxes on imported and exported goods."}
+{"label": "less-favoured region", "description": "Less-Favoured Region - Refers to laws or regulations related to regions with unfavorable economic conditions."}
+{"label": "eligible region", "description": "Eligible Region - Refers to laws or regulations related to regions or areas eligible for specific benefits or support."}
+{"label": "powdered milk", "description": "Powdered Milk - Refers to laws or regulations specific to powdered milk or milk powder products."}
+{"label": "milk product", "description": "Milk Product - Refers to laws or regulations related to various milk-based products."}
+{"label": "interest", "description": "Interest - Refers to laws or regulations related to the accrual or payment of interest on financial transactions."}
+{"label": "EAGGF Guarantee Section", "description": "EAGGF Guarantee Section - Refers to laws or regulations related to the Guarantee Section of the European Agricultural Guidance and Guarantee Fund (EAGGF)."}
+{"label": "intervention agency", "description": "Intervention Agency - Refers to laws or regulations related to government or authorized agencies responsible for intervening in specific situations."}
+{"label": "beef", "description": "Beef - Refers to laws or regulations specific to beef cattle and the beef industry."}
+{"label": "fight against crime", "description": "Fight against Crime - Refers to laws or regulations related to legal measures and actions taken to combat criminal activities."}
+{"label": "natural person", "description": "Natural Person - Refers to laws or regulations related to individuals as legal entities."}
+{"label": "Yugoslavia", "description": "Yugoslavia - Refers to laws or regulations specific to Yugoslavia."}
+{"label": "spectrometry", "description": "Spectrometry - Refers to laws or regulations related to the use of spectrometry techniques in scientific analysis."}
+{"label": "fresh vegetable", "description": "Fresh Vegetable - Refers to laws or regulations specific to fresh vegetables."}
+{"label": "supplementary trade mechanism", "description": "Supplementary Trade Mechanism - Refers to laws or regulations related to additional mechanisms or provisions in trade agreements."}
+{"label": "aromatic plant", "description": "Aromatic Plant - Refers to laws or regulations specific to plants used for their aromatic properties."}
+{"label": "intervention buying", "description": "Intervention Buying - Refers to laws or regulations related to government buying or intervention in the market."}
+{"label": "seedling", "description": "Seedling - Refers to laws or regulations related to young plants grown from seeds."}
+{"label": "plant propagation", "description": "Plant Propagation - Refers to laws or regulations related to the reproduction and propagation of plants."}
+{"label": "derogation from EU law", "description": "Derogation from EU Law - Refers to laws or regulations allowing temporary exceptions or deviations from EU law."}
+{"label": "GATT", "description": "GATT - Refers to laws or regulations related to the General Agreement on Tariffs and Trade (GATT)."}
+{"label": "agricultural trade", "description": "Agricultural Trade - Refers to laws or regulations related to the trade of agricultural products."}
+{"label": "alternate", "description": "Alternate - Refers to laws or regulations related to alternatives or substitute provisions."}
+{"label": "aquaculture", "description": "Aquaculture - Refers to laws or regulations related to the farming and cultivation of aquatic organisms."}
+{"label": "common organisation of markets", "description": "Common Organisation of Markets - Refers to laws or regulations related to the European Union's policies and measures for organizing agricultural markets."}
+{"label": "vinification", "description": "Vinification - Refers to laws or regulations specific to wine-making processes."}
+{"label": "viticulture", "description": "Viticulture - Refers to laws or regulations related to grape cultivation for winemaking."}
+{"label": "auction sale", "description": "Auction Sale - Refers to laws or regulations related to the sale of goods through auctions."}
+{"label": "television equipment", "description": "Television Equipment - Refers to laws or regulations related to television broadcasting equipment."}
+{"label": "intervention price", "description": "Intervention Price - Refers to laws or regulations related to the price at which a government intervenes in the market."}
+{"label": "selling price", "description": "Selling Price - Refers to laws or regulations related to the price at which goods are sold."}
+{"label": "minimum price", "description": "Minimum Price - Refers to laws or regulations related to the lowest price at which a product or service can be legally sold."}
+{"label": "concentrated product", "description": "Concentrated Product - Refers to laws or regulations related to concentrated or condensed products."}
+{"label": "cream", "description": "Cream - Refers to laws or regulations specific to cream or dairy products."}
+{"label": "sales aid", "description": "Sales Aid - Refers to laws or regulations related to materials or tools used to support sales or marketing activities."}
+{"label": "veterinary legislation", "description": "Veterinary Legislation - Refers to laws or regulations related to veterinary practices and animal health."}
+{"label": "import policy", "description": "Import Policy - Refers to laws or regulations related to a country's policies and measures on imports."}
+{"label": "waste", "description": "Waste - Refers to laws or regulations related to waste management and disposal."}
+{"label": "olive oil", "description": "Olive Oil - Refers to laws or regulations specific to olive oil products."}
+{"label": "payment", "description": "Payment - Refers to laws or regulations related to payment methods and transactions."}
+{"label": "generalised preferences", "description": "Generalised Preferences - Refers to laws or regulations related to trade preferences granted to developing countries."}
+{"label": "two-wheeled vehicle", "description": "Two-Wheeled Vehicle - Refers to laws or regulations specific to vehicles with two wheels, such as motorcycles or bicycles."}
+{"label": "South Africa", "description": "South Africa - Refers to laws or regulations specific to South Africa."}
+{"label": "fruit juice", "description": "Fruit Juice - Refers to laws or regulations specific to fruit juices."}
+{"label": "agricultural product nomenclature", "description": "Agricultural Product Nomenclature - Refers to laws or regulations related to the classification and naming of agricultural products."}
+{"label": "fruit product", "description": "Fruit Product - Refers to laws or regulations related to processed fruit products."}
+{"label": "wine", "description": "Wine - Refers to laws or regulations specific to wine and winemaking."}
+{"label": "intra-EU trade", "description": "Intra-EU Trade - Refers to laws or regulations related to trade between European Union member states."}
+{"label": "administrative cooperation", "description": "Administrative Cooperation - Refers to laws or regulations related to the collaboration and exchange of information between administrative authorities."}
+{"label": "single market", "description": "Single Market - Refers to laws or regulations related to the European Union's single market policies."}
+{"label": "European Committee of the Regions", "description": "European Committee of the Regions - Refers to laws or regulations related to the European Committee of the Regions."}
+{"label": "Madeira", "description": "Madeira - Refers to laws or regulations specific to the Madeira region."}
+{"label": "export licence", "description": "Export Licence - Refers to laws or regulations related to licenses required for exporting goods."}
+{"label": "starch", "description": "Starch - Refers to laws or regulations specific to starch as a product."}
+{"label": "cassava", "description": "Cassava - Refers to laws or regulations specific to the cultivation, trade, or use of cassava."}
+{"label": "Thailand", "description": "Thailand - Refers to laws or regulations specific to Thailand."}
+{"label": "farm modernisation", "description": "Farm Modernisation - Refers to laws or regulations related to the modernization and improvement of agricultural practices."}
+{"label": "Netherlands", "description": "Netherlands - Refers to laws or regulations specific to the Netherlands."}
+{"label": "cessation of farming", "description": "Cessation of Farming - Refers to laws or regulations related to the discontinuation or cessation of farming activities."}
+{"label": "skimmed milk powder", "description": "Skimmed Milk Powder - Refers to laws or regulations specific to skimmed milk powder as a dairy product."}
+{"label": "chemical product", "description": "Chemical Product - Refers to laws or regulations related to chemical products."}
+{"label": "plant health product", "description": "Plant Health Product - Refers to laws or regulations related to products used to protect plant health."}
+{"label": "cotton", "description": "Cotton - Refers to laws or regulations specific to cotton as a commodity."}
+{"label": "world market price", "description": "World Market Price - Refers to laws or regulations related to the international market price of goods."}
+{"label": "animal production", "description": "Animal Production - Refers to laws or regulations related to the breeding and rearing of animals for various purposes."}
+{"label": "customs inspection", "description": "Customs Inspection - Refers to laws or regulations related to the inspection of goods at customs borders."}
+{"label": "overseas countries and territories", "description": "Overseas Countries and Territories - Refers to laws or regulations related to territories under the sovereignty or jurisdiction of European Union member states."}
+{"label": "ACP countries", "description": "ACP Countries - Refers to laws or regulations related to the African, Caribbean, and Pacific Group of States."}
+{"label": "French overseas department and region", "description": "French Overseas Department and Region - Refers to laws or regulations specific to the overseas departments and regions of France."}
+{"label": "Canary Islands", "description": "Canary Islands - Refers to laws or regulations specific to the Canary Islands, an autonomous community of Spain."}
+{"label": "Azores", "description": "Azores - Refers to laws or regulations specific to the Azores, an autonomous region of Portugal."}
+{"label": "Cedefop", "description": "Cedefop - Refers to laws or regulations related to the European Centre for the Development of Vocational Training (Cedefop)."}
+{"label": "measuring equipment", "description": "Measuring Equipment - Refers to laws or regulations related to devices used for measuring quantities."}
+{"label": "Belgium", "description": "Belgium - Refers to laws or regulations specific to Belgium."}
+{"label": "terms for aid", "description": "Terms for Aid - Refers to laws or regulations related to the conditions and criteria for providing financial aid or support."}
+{"label": "stone fruit", "description": "Stone Fruit - Refers to laws or regulations specific to stone fruits such as peaches, plums, and cherries."}
+{"label": "agri-monetary policy", "description": "Agri-Monetary Policy - Refers to laws or regulations related to the monetary aspects of agricultural policies."}
+{"label": "grape", "description": "Grape - Refers to laws or regulations specific to grapes as a product."}
+{"label": "transitional period (EU)", "description": "Transitional Period (EU) - Refers to laws or regulations related to transitional arrangements during the accession of new member states to the European Union."}
+{"label": "aid to industry", "description": "Aid to Industry - Refers to laws or regulations related to financial support or incentives provided to specific industries."}
+{"label": "agro-industry", "description": "Agro-Industry - Refers to laws or regulations related to the agricultural processing and food industry."}
+{"label": "telecommunications equipment", "description": "Telecommunications Equipment - Refers to laws or regulations related to equipment used for telecommunications."}
+{"label": "producer group", "description": "Producer Group - Refers to laws or regulations related to groups or associations of producers."}
+{"label": "cannery", "description": "Cannery - Refers to laws or regulations specific to facilities or establishments engaged in the processing and preservation of food through canning."}
+{"label": "market intervention", "description": "Market Intervention - Refers to laws or regulations related to government intervention in the market."}
+{"label": "monetary compensatory amount", "description": "Monetary Compensatory Amount - Refers to laws or regulations related to the financial adjustment compensating for exchange rate fluctuations in trade."}
+{"label": "fishery product", "description": "Fishery Product - Refers to laws or regulations specific to products derived from fisheries."}
+{"label": "grubbing premium", "description": "Grubbing Premium - Refers to laws or regulations related to financial incentives or subsidies provided for the removal of vineyards or orchards."}
+{"label": "utilised agricultural area", "description": "Utilised Agricultural Area - Refers to laws or regulations related to the land used for agricultural activities."}
+{"label": "distillation", "description": "Distillation - Refers to laws or regulations related to the process of distilling alcoholic beverages."}
+{"label": "EAGGF", "description": "EAGGF - Refers to laws or regulations related to the European Agricultural Guidance and Guarantee Fund."}
+{"label": "free movement of goods", "description": "Free Movement of Goods - Refers to laws or regulations related to the unrestricted movement of goods within a single market or economic area."}
+{"label": "agricultural production", "description": "Agricultural Production - Refers to laws or regulations governing the cultivation, harvesting, and processing of crops and other agricultural products."}
+{"label": "aid to agriculture", "description": "Aid to Agriculture - Refers to laws or regulations concerning financial support and subsidies provided to the agricultural sector."}
+{"label": "EAEC", "description": "EAEC (European Atomic Energy Community) - Refers to laws or regulations specific to the European Atomic Energy Community."}
+{"label": "plant health legislation", "description": "Plant Health Legislation - Refers to laws or regulations aimed at preventing the spread of pests and diseases that can affect plants."}
+{"label": "plant disease", "description": "Plant Disease - Refers to laws or regulations addressing the control, containment, and eradication of diseases that can impact plant life."}
+{"label": "customs regulations", "description": "Customs Regulations - Refers to laws or regulations governing the import, export, and movement of goods across borders."}
+{"label": "Greece", "description": "Greece - Refers to laws or regulations specific to the country of Greece."}
+{"label": "action programme", "description": "Action Programme - Refers to laws or regulations outlining a set of coordinated actions and initiatives to achieve specific goals or objectives."}
+{"label": "brucellosis", "description": "Brucellosis - Refers to laws or regulations addressing the prevention, control, and eradication of brucellosis, a bacterial disease affecting livestock."}
+{"label": "national implementing measure", "description": "National Implementing Measure - Refers to laws or regulations enacted by individual EU member states to implement and enforce EU directives or regulations at the national level."}
+{"label": "production aid", "description": "Production Aid - Refers to laws or regulations governing financial support and subsidies provided to various sectors of production."}
+{"label": "Turkey", "description": "Turkey - Refers to laws or regulations specific to the country of Turkey."}
+{"label": "animal breeding", "description": "Animal Breeding - Refers to laws or regulations concerning the selective breeding and improvement of animal genetics for specific traits."}
+{"label": "poultrymeat", "description": "Poultrymeat - Refers to laws or regulations related to the production, processing, and marketing of poultry meat products."}
+{"label": "poultry", "description": "Poultry - Refers to laws or regulations pertaining to the rearing and welfare of domestic fowl, such as chickens and ducks."}
+{"label": "Central and Eastern Europe", "description": "Central and Eastern Europe - Refers to laws or regulations relevant to the countries in the Central and Eastern European region."}
+{"label": "agricultural guidance", "description": "Agricultural Guidance - Refers to laws or regulations providing guidance and support to farmers and agricultural businesses."}
+{"label": "goatmeat", "description": "Goatmeat - Refers to laws or regulations related to the production, processing, and sale of goat meat."}
+{"label": "sheepmeat", "description": "Sheepmeat - Refers to laws or regulations related to the production, processing, and marketing of sheep meat products."}
+{"label": "animal feedingstuffs", "description": "Animal Feedingstuffs - Refers to laws or regulations concerning the composition, labeling, and marketing of animal feed."}
+{"label": "manufactured feedingstuffs", "description": "Manufactured Feedingstuffs - Refers to laws or regulations related to processed or formulated animal feed products."}
+{"label": "cereal product", "description": "Cereal Product - Refers to laws or regulations concerning products made from cereal grains."}
+{"label": "supply balance sheet", "description": "Supply Balance Sheet - Refers to laws or regulations related to the recording and reporting of the supply and availability of specific goods or products."}
+{"label": "Atlantic Ocean", "description": "Atlantic Ocean - Refers to laws or regulations specific to the maritime regions of the Atlantic Ocean."}
+{"label": "sea fishing", "description": "Sea Fishing - Refers to laws or regulations related to fishing activities in marine or sea waters."}
+{"label": "catch area", "description": "Catch Area - Refers to laws or regulations defining specific geographical areas for fishing activities and resource management."}
+{"label": "catch by species", "description": "Catch by Species - Refers to laws or regulations regarding the recording and reporting of fish catches according to their respective species."}
+{"label": "tropical fruit", "description": "Tropical Fruit - Refers to laws or regulations concerning the production, import, and trade of fruits typically grown in tropical regions."}
+{"label": "nomenclature", "description": "Nomenclature - Refers to laws or regulations related to the systematic naming and classification of items or goods."}
+{"label": "tariff nomenclature", "description": "Tariff Nomenclature - Refers to laws or regulations that classify goods for customs and trade purposes, with corresponding tariff codes."}
+{"label": "nut", "description": "Nut - Refers to laws or regulations related to the harvesting, processing, and trade of nuts."}
+{"label": "Finland", "description": "Finland - Refers to laws or regulations specific to the country of Finland."}
+{"label": "consumer protection", "description": "Consumer Protection - Refers to laws or regulations aimed at safeguarding the rights and interests of consumers."}
+{"label": "pigmeat", "description": "Pigmeat - Refers to laws or regulations related to the production, processing, and sale of pork products."}
+{"label": "dangerous substance", "description": "Dangerous Substance - Refers to laws or regulations addressing the handling, transportation, and disposal of hazardous materials."}
+{"label": "food aid", "description": "Food Aid - Refers to laws or regulations governing the provision of food assistance and humanitarian aid."}
+{"label": "analytical chemistry", "description": "Analytical Chemistry - Refers to laws or regulations related to the methods and techniques used for chemical analysis."}
+{"label": "statistical method", "description": "Statistical Method - Refers to laws or regulations concerning the techniques and procedures used for collecting, processing, and interpreting statistical data."}
+{"label": "milk", "description": "Milk - Refers to laws or regulations related to the production, processing, and marketing of milk and dairy products."}
+{"label": "perennial vegetable", "description": "Perennial Vegetable - Refers to laws or regulations concerning the cultivation and trade of perennial vegetables."}
+{"label": "Taiwan", "description": "Taiwan - Refers to laws or regulations specific to the region of Taiwan."}
+{"label": "white sugar", "description": "White Sugar - Refers to laws or regulations related to the production, trade, and marketing of refined sugar."}
+{"label": "export", "description": "Export - Refers to laws or regulations governing the sale and shipment of goods to foreign countries."}
+{"label": "human nutrition", "description": "Human Nutrition - Refers to laws or regulations related to the dietary requirements and food consumption of humans."}
+{"label": "foodstuffs legislation", "description": "Foodstuffs Legislation - Refers to laws or regulations concerning the production, safety, and labeling of food products."}
+{"label": "scientific cooperation", "description": "Scientific Cooperation - Refers to laws or regulations promoting collaborative scientific research and exchange of knowledge."}
+{"label": "enlargement of the Union", "description": "Enlargement of the Union - Refers to laws or regulations related to the process of admitting new member states into the European Union."}
+{"label": "Zimbabwe", "description": "Zimbabwe - Refers to laws or regulations specific to the country of Zimbabwe."}
+{"label": "fruit", "description": "Fruit - Refers to laws or regulations related to the production, import, and marketing of fruits."}
+{"label": "pesticide residue", "description": "Pesticide Residue - Refers to laws or regulations concerning the allowable levels of pesticide residues in food products."}
+{"label": "wheat", "description": "Wheat - Refers to laws or regulations related to the production, trade, and marketing of wheat as a staple grain."}
+{"label": "slaughter of animals", "description": "Slaughter of Animals - Refers to laws or regulations concerning the humane and controlled killing of animals for food consumption."}
+{"label": "plastics", "description": "Plastics - Refers to laws or regulations related to the production, use, and disposal of plastic materials."}
+{"label": "manufactured goods", "description": "Manufactured Goods - Refers to laws or regulations governing the production, import, and sale of finished products."}
+{"label": "agricultural production policy", "description": "Agricultural Production Policy - Refers to laws or regulations outlining the strategies and measures to support and develop agricultural production."}
+{"label": "food standard", "description": "Food Standard - Refers to laws or regulations setting the quality and safety standards for food products."}
+{"label": "food contamination", "description": "Food Contamination - Refers to laws or regulations addressing the presence of harmful substances in food products."}
+{"label": "toxic substance", "description": "Toxic Substance - Refers to laws or regulations concerning hazardous chemicals and their handling."}
+{"label": "health risk", "description": "Health Risk - Refers to laws or regulations related to the assessment and management of potential health hazards."}
+{"label": "sugar product", "description": "Sugar Product - Refers to laws or regulations related to the production, trade, and marketing of sugar-based products."}
+{"label": "syrup", "description": "Syrup - Refers to laws or regulations related to the production, composition, and use of syrups."}
+{"label": "vegetable oil", "description": "Vegetable Oil - Refers to laws or regulations concerning the production, processing, and trade of vegetable oils."}
+{"label": "free circulation", "description": "Free Circulation - Refers to laws or regulations related to the unrestricted movement of goods within a single market or economic area."}
+{"label": "market supervision", "description": "Market Supervision - Refers to laws or regulations concerning the monitoring and enforcement of rules in the market."}
+{"label": "customs document", "description": "Customs Document - Refers to laws or regulations governing the paperwork and formalities required for customs clearance."}
+{"label": "raw sugar", "description": "Raw Sugar - Refers to laws or regulations related to the unprocessed form of sugar before refining."}
+{"label": "Ireland", "description": "Ireland - Refers to laws or regulations specific to the country of Ireland."}
+{"label": "agricultural product", "description": "Agricultural Product - Refers to laws or regulations related to products derived from agriculture."}
+{"label": "storage cost", "description": "Storage Cost - Refers to laws or regulations related to the expenses associated with storing goods or products."}
+{"label": "redemption", "description": "Redemption - Refers to laws or regulations concerning the exchange or conversion of financial instruments."}
+{"label": "sugar", "description": "Sugar - Refers to laws or regulations related to the production, trade, and marketing of sugar as a commodity."}
+{"label": "electronic device", "description": "Electronic Device - Refers to laws or regulations related to electronic equipment and devices."}
+{"label": "Romania", "description": "Romania - Refers to laws or regulations specific to the country of Romania."}
+{"label": "Bulgaria", "description": "Bulgaria - Refers to laws or regulations specific to the country of Bulgaria."}
+{"label": "trade cooperation", "description": "Trade Cooperation - Refers to laws or regulations promoting collaborative trade relationships between countries or regions."}
+{"label": "economic cooperation", "description": "Economic Cooperation - Refers to laws or regulations supporting collaboration and economic partnership between countries or regions."}
+{"label": "foot-and-mouth disease", "description": "Foot-and-mouth Disease - Refers to laws or regulations addressing the prevention, control, and eradication of foot-and-mouth disease in livestock."}
+{"label": "financing of aid", "description": "Financing of Aid - Refers to laws or regulations concerning the funding and financial support provided as aid."}
+{"label": "rural development", "description": "Rural Development - Refers to laws or regulations concerning the development and improvement of rural areas and communities."}
+{"label": "tariff reduction", "description": "Tariff Reduction - Refers to laws or regulations concerning the lowering or elimination of import duties on goods."}
+{"label": "withdrawal from the market", "description": "Withdrawal from the Market - Refers to laws or regulations governing the removal or recall of products from the market due to safety concerns or non-compliance."}
+{"label": "Norway", "description": "Norway - Refers to laws or regulations specific to the country of Norway."}
+{"label": "production refund", "description": "Production Refund - Refers to laws or regulations concerning the reimbursement or refund of production costs for certain goods."}
+{"label": "fodder", "description": "Fodder - Refers to laws or regulations related to feed for livestock and animals."}
+{"label": "supplementary aid for products", "description": "Supplementary Aid for Products - Refers to laws or regulations concerning additional financial support provided for specific products or sectors."}
+{"label": "Mauritania", "description": "Mauritania - Refers to laws or regulations specific to the country of Mauritania."}
+{"label": "iron and steel industry", "description": "Iron and Steel Industry - Refers to laws or regulations related to the production, trade, and management of iron and steel products."}
+{"label": "economic support", "description": "Economic Support - Refers to laws or regulations concerning financial assistance and aid provided to support economic activities."}
+{"label": "investment aid", "description": "Investment Aid - Refers to laws or regulations concerning financial assistance provided to support investments in specific sectors or industries."}
+{"label": "database", "description": "Database - Refers to laws or regulations concerning the organization, management, and access to electronic databases."}
+{"label": "air safety", "description": "Air Safety - Refers to laws or regulations related to the safety and security of air travel and aviation operations."}
+{"label": "intervention stock", "description": "Intervention Stock - Refers to laws or regulations concerning the maintenance and management of reserve stocks of certain products."}
+{"label": "aid to disadvantaged groups", "description": "Aid to Disadvantaged Groups - Refers to laws or regulations concerning financial assistance and support provided to vulnerable and disadvantaged populations."}
+{"label": "iron and steel product", "description": "Iron and Steel Product - Refers to laws or regulations concerning finished goods made from iron and steel."}
+{"label": "ECSC", "description": "ECSC (European Coal and Steel Community) - Refers to laws or regulations specific to the European Coal and Steel Community."}
+{"label": "Kazakhstan", "description": "Kazakhstan - Refers to laws or regulations specific to the country of Kazakhstan."}
+{"label": "combined transport", "description": "Combined Transport - Refers to laws or regulations concerning the transportation of goods using multiple modes of transport."}
+{"label": "Slovenia", "description": "Slovenia - Refers to laws or regulations specific to the country of Slovenia."}
+{"label": "public stock", "description": "Public Stock - Refers to laws or regulations concerning government-held stocks of specific goods or commodities."}
+{"label": "doctor", "description": "Doctor - Refers to laws or regulations related to the practice of medicine and the qualifications of medical professionals."}
+{"label": "European Economic and Social Committee", "description": "European Economic and Social Committee - Refers to laws or regulations related to the advisory body representing various economic and social interest groups in the European Union."}
+{"label": "fishery management", "description": "Fishery Management - Refers to laws or regulations concerning the conservation and sustainable management of fishery resources."}
+{"label": "fishery resources", "description": "Fishery Resources - Refers to laws or regulations related to the natural fish stocks available for commercial fishing."}
+{"label": "fishing regulations", "description": "Fishing Regulations - Refers to laws or regulations governing fishing activities."}
+{"label": "fishing controls", "description": "Fishing Controls - Refers to laws or regulations concerning the enforcement and monitoring of fishing activities."}
+{"label": "veterinary drug", "description": "Veterinary Drug - Refers to laws or regulations related to pharmaceuticals used in veterinary medicine."}
+{"label": "farm price support", "description": "Farm Price Support - Refers to laws or regulations concerning financial assistance provided to support farm incomes."}
+{"label": "Hungary", "description": "Hungary - Refers to laws or regulations specific to the country of Hungary."}
+{"label": "carcase", "description": "Carcase - Refers to laws or regulations related to the body of a slaughtered animal."}
+{"label": "classification", "description": "Classification - Refers to laws or regulations concerning the categorization of goods or products."}
+{"label": "agricultural levy", "description": "Agricultural Levy - Refers to laws or regulations related to the taxes or charges imposed on agricultural products."}
+{"label": "price fixed in advance", "description": "Price Fixed in Advance - Refers to laws or regulations concerning the predetermined price for goods or services."}
+{"label": "vegetable product", "description": "Vegetable Product - Refers to laws or regulations related to products derived from vegetables."}
+{"label": "India", "description": "India - Refers to laws or regulations specific to the country of India."}
+{"label": "wire", "description": "Wire - Refers to laws or regulations concerning metallic threads or strands."}
+{"label": "Malta", "description": "Malta - Refers to laws or regulations specific to the country of Malta."}
+{"label": "free-trade agreement", "description": "Free-Trade Agreement - Refers to laws or regulations governing trade agreements that promote free and unrestricted commerce between countries or regions."}
+{"label": "sale", "description": "Sale - Refers to laws or regulations concerning the exchange of goods or products for money or other considerations."}
+{"label": "boned meat", "description": "Boned Meat - Refers to laws or regulations related to meat that has been removed from the bone."}
+{"label": "North-West Atlantic Fisheries Organisation", "description": "North-West Atlantic Fisheries Organisation - Refers to laws or regulations concerning the regional fisheries management organization responsible for the conservation and management of fishery resources in the North-West Atlantic Ocean."}
+{"label": "international waters", "description": "International Waters - Refers to laws or regulations concerning maritime areas beyond national jurisdictions."}
+{"label": "Albania", "description": "Albania - Refers to laws or regulations specific to the country of Albania."}
+{"label": "farm animal", "description": "Farm Animal - Refers to laws or regulations related to animals raised for agricultural purposes."}
+{"label": "fresh meat", "description": "Fresh Meat - Refers to laws or regulations concerning unprocessed meat products."}
+{"label": "health legislation", "description": "Health Legislation - Refers to laws or regulations related to public health and healthcare."}
+{"label": "export restriction", "description": "Export Restriction - Refers to laws or regulations limiting or controlling the export of certain goods or products."}
+{"label": "transport of animals", "description": "Transport of Animals - Refers to laws or regulations concerning the transportation of live animals."}
+{"label": "seed flax", "description": "Seed Flax - Refers to laws or regulations related to the cultivation and trade of flax seeds."}
+{"label": "oleaginous plant", "description": "Oleaginous Plant - Refers to laws or regulations related to plants that produce oil-rich seeds."}
+{"label": "meat product", "description": "Meat Product - Refers to laws or regulations concerning processed or manufactured meat items."}
+{"label": "sugar industry", "description": "Sugar Industry - Refers to laws or regulations related to the production, processing, and trade of sugar."}
+{"label": "production quota", "description": "Production Quota - Refers to laws or regulations concerning the limits on the quantity of certain goods that can be produced."}
+{"label": "consumer information", "description": "Consumer Information - Refers to laws or regulations providing consumers with information about products and services."}
+{"label": "domestic market", "description": "Domestic Market - Refers to laws or regulations concerning trade and commerce within a specific country or region."}
+{"label": "sales promotion", "description": "Sales Promotion - Refers to laws or regulations related to activities that encourage the sale of goods or services."}
+{"label": "vaccine", "description": "Vaccine - Refers to laws or regulations related to pharmaceuticals used to prevent infectious diseases."}
+{"label": "vaccination", "description": "Vaccination - Refers to laws or regulations concerning the administration of vaccines to individuals or populations."}
+{"label": "representative rate", "description": "Representative Rate - Refers to laws or regulations concerning official exchange rates."}
+{"label": "hops", "description": "Hops - Refers to laws or regulations related to the cultivation and trade of hops used in brewing."}
+{"label": "norm price", "description": "Norm Price - Refers to laws or regulations concerning the standard or average price of certain goods or products."}
+{"label": "production", "description": "Production - Refers to laws or regulations related to the manufacturing or creation of goods."}
+{"label": "location of production", "description": "Location of Production - Refers to laws or regulations concerning the geographic area where goods are manufactured or grown."}
+{"label": "mode of production", "description": "Mode of Production - Refers to laws or regulations concerning the methods and processes used to produce goods."}
+{"label": "storage", "description": "Storage - Refers to laws or regulations related to the preservation and management of goods in storage facilities."}
+{"label": "tobacco", "description": "Tobacco - Refers to laws or regulations related to the production, sale, and consumption of tobacco products."}
+{"label": "Georgia", "description": "Georgia - Refers to laws or regulations specific to the country of Georgia."}
+{"label": "region", "description": "Region - Refers to laws or regulations concerning a specific geographic area."}
+{"label": "basis of tax assessment", "description": "Basis of Tax Assessment - Refers to laws or regulations determining the factors used to calculate taxes."}
+{"label": "Indonesia", "description": "Indonesia - Refers to laws or regulations specific to the country of Indonesia."}
+{"label": "Malaysia", "description": "Malaysia - Refers to laws or regulations specific to the country of Malaysia."}
+{"label": "North Korea", "description": "North Korea - Refers to laws or regulations specific to the country of North Korea."}
+{"label": "alcoholic beverage", "description": "Alcoholic Beverage - Refers to laws or regulations concerning the production, distribution, and sale of alcoholic drinks."}
+{"label": "trading operation", "description": "Trading Operation - Refers to laws or regulations related to commercial transactions and activities."}
+{"label": "export subsidy", "description": "Export Subsidy - Refers to laws or regulations concerning financial support provided to promote the export of goods."}
+{"label": "mollusc", "description": "Mollusc - Refers to laws or regulations related to shellfish and other marine organisms."}
+{"label": "wildlife", "description": "Wildlife - Refers to laws or regulations concerning the protection and conservation of wild animals and plants."}
+{"label": "animal life", "description": "Animal Life - Refers to laws or regulations related to the protection and welfare of animals."}
+{"label": "import levy", "description": "Import Levy - Refers to laws or regulations concerning the taxes or charges imposed on imported goods."}
+{"label": "Czechoslovakia", "description": "Czechoslovakia - Refers to laws or regulations specific to the historical country of Czechoslovakia."}
+{"label": "Morocco", "description": "Morocco - Refers to laws or regulations specific to the country of Morocco."}
+{"label": "extra-EU trade", "description": "Extra-EU Trade - Refers to laws or regulations concerning trade between the European Union and countries outside the EU."}
+{"label": "disease prevention", "description": "Disease Prevention - Refers to laws or regulations related to measures and strategies for preventing the spread of diseases."}
+{"label": "agricultural region", "description": "Agricultural Region - Refers to laws or regulations concerning specific geographic areas with a focus on agriculture."}
+{"label": "trade restriction", "description": "Trade Restriction - Refers to laws or regulations limiting or controlling trade activities."}
+{"label": "ceramics", "description": "Ceramics - Refers to laws or regulations related to the production and trade of ceramic products."}
+{"label": "potato", "description": "Potato - Refers to laws or regulations concerning the cultivation, processing, and trade of potatoes."}
+{"label": "contract", "description": "Contract - Refers to laws or regulations governing agreements between parties."}
+{"label": "crop yield", "description": "Crop Yield - Refers to laws or regulations concerning the measurement and assessment of agricultural crop production."}
+{"label": "table wine", "description": "Table Wine - Refers to laws or regulations related to low-quality wine for daily consumption."}
+{"label": "administrative formalities", "description": "Administrative Formalities - Refers to laws or regulations concerning bureaucratic procedures and paperwork."}
+{"label": "marketing year", "description": "Marketing Year - Refers to laws or regulations defining the period for marketing and trade of specific agricultural products."}
+{"label": "transport document", "description": "Transport Document - Refers to laws or regulations concerning the paperwork and documentation required for the transportation of goods."}
+{"label": "meat processing industry", "description": "Meat Processing Industry - Refers to laws or regulations related to the processing and production of meat products."}
+{"label": "cheese", "description": "Cheese - Refers to laws or regulations concerning the production, trade, and marketing of cheese."}
+{"label": "distribution of EU funding", "description": "Distribution of EU Funding - Refers to laws or regulations concerning the allocation and distribution of financial support provided by the European Union."}
+{"label": "Cyprus", "description": "Cyprus - Refers to laws or regulations specific to the country of Cyprus."}
+{"label": "emergency aid", "description": "Emergency Aid - Refers to laws or regulations concerning financial assistance provided during emergencies or crises."}
+{"label": "genetically modified organism", "description": "Genetically Modified Organism - Refers to laws or regulations related to genetically engineered organisms."}
+{"label": "plant breeding", "description": "Plant Breeding - Refers to laws or regulations concerning the development and cultivation of new plant varieties."}
+{"label": "farmers' income", "description": "Farmers' Income - Refers to laws or regulations concerning the financial well-being of farmers and agricultural workers."}
+{"label": "trade agreement", "description": "Trade Agreement - Refers to laws or regulations governing agreements between countries or regions to facilitate trade and economic cooperation."}
+{"label": "clothing", "description": "Clothing - Refers to laws or regulations concerning garments and apparel."}
+{"label": "Vietnam", "description": "Vietnam - Refers to laws or regulations specific to the country of Vietnam."}
+{"label": "EU control", "description": "EU Control - Refers to laws or regulations concerning the supervision and oversight by the European Union."}
+{"label": "piping", "description": "Piping - Refers to laws or regulations related to pipes and tubing used in various industries."}
+{"label": "customs", "description": "Customs - Refers to laws or regulations related to the collection of duties and taxes on imports and exports."}
+{"label": "bovine spongiform encephalopathy", "description": "Bovine Spongiform Encephalopathy (BSE) - Refers to laws or regulations concerning the prevention and control of BSE, also known as mad cow disease."}
+{"label": "egg", "description": "Egg - Refers to laws or regulations concerning the production, trade, and quality standards of eggs."}
+{"label": "biometrics", "description": "Biometrics - Refers to laws or regulations related to the use of unique physical characteristics for identification and authentication."}
+{"label": "Serbia and Montenegro", "description": "Serbia and Montenegro - Refers to laws or regulations specific to the former country of Serbia and Montenegro."}
+{"label": "Iceland", "description": "Iceland - Refers to laws or regulations specific to the country of Iceland."}
+{"label": "joint committee (EU)", "description": "Joint Committee (EU) - Refers to laws or regulations concerning the joint committee established by international agreements."}
+{"label": "farm development plan", "description": "Farm Development Plan - Refers to laws or regulations concerning long-term planning for agricultural development."}
+{"label": "fishing industry", "description": "Fishing Industry - Refers to laws or regulations related to the commercial fishing sector."}
+{"label": "storage premium", "description": "Storage Premium - Refers to laws or regulations concerning financial incentives for storing certain goods."}
+{"label": "European Commission", "description": "European Commission - Refers to laws or regulations concerning the executive body of the European Union."}
+{"label": "market support", "description": "Market Support - Refers to laws or regulations concerning measures to stabilize or promote specific markets."}
+{"label": "catalogue", "description": "Catalogue - Refers to laws or regulations related to lists or databases of approved products."}
+{"label": "food technology", "description": "Food Technology - Refers to laws or regulations concerning the application of scientific and engineering principles to food production and processing."}
+{"label": "vineyard", "description": "Vineyard - Refers to laws or regulations related to areas where grapes are grown for winemaking."}
+{"label": "Uruguay", "description": "Uruguay - Refers to laws or regulations specific to the country of Uruguay."}
+{"label": "prepared foodstuff", "description": "Prepared Foodstuff - Refers to laws or regulations concerning processed or ready-to-eat food products."}
+{"label": "condiment", "description": "Condiment - Refers to laws or regulations concerning substances used to enhance the flavor of food."}
+{"label": "offal", "description": "Offal - Refers to laws or regulations related to the internal organs and entrails of animals used as food."}
+{"label": "Aegean Islands", "description": "Aegean Islands - Refers to laws or regulations specific to the islands located in the Aegean Sea."}
+{"label": "preserved product", "description": "Preserved Product - Refers to laws or regulations concerning food items that have undergone preservation processes."}
+{"label": "customs cooperation", "description": "Customs Cooperation - Refers to laws or regulations concerning collaboration and coordination between customs authorities of different countries."}
+{"label": "export (EU)", "description": "Export (EU) - Refers to laws or regulations concerning the shipment of goods from the European Union to other countries."}
+{"label": "English Channel", "description": "English Channel - Refers to laws or regulations specific to the maritime region of the English Channel."}
+{"label": "EU waters", "description": "EU Waters - Refers to laws or regulations concerning the maritime areas under the jurisdiction of the European Union."}
+{"label": "Slovakia", "description": "Slovakia - Refers to laws or regulations specific to the country of Slovakia."}
+{"label": "Czech Republic", "description": "Czech Republic - Refers to laws or regulations specific to the country of the Czech Republic."}
+{"label": "Afghanistan", "description": "Afghanistan - Refers to laws or regulations specific to the country of Afghanistan."}
+{"label": "international affairs", "description": "International Affairs - Refers to laws or regulations concerning the diplomatic and foreign relations of the European Union with other countries and international organizations."}
+{"label": "restriction of liberty", "description": "Restriction of Liberty - Refers to laws or regulations concerning the imposition of restrictions on personal freedom."}
+{"label": "terrorism", "description": "Terrorism - Refers to laws or regulations related to the prevention and response to acts of terrorism."}
+{"label": "foreign capital", "description": "Foreign Capital - Refers to laws or regulations concerning investments from foreign entities in a country."}
+{"label": "Hong Kong", "description": "Hong Kong - Refers to laws or regulations specific to the region of Hong Kong."}
+{"label": "export price", "description": "Export Price - Refers to laws or regulations concerning the price at which goods are sold for export."}
+{"label": "free-at-frontier price", "description": "Free-at-frontier Price - Refers to laws or regulations concerning the price of goods at the EU's external borders."}
+{"label": "conservation of fish stocks", "description": "Conservation of Fish Stocks - Refers to laws or regulations concerning measures to protect and sustainably manage fish populations."}
+{"label": "protection of animal life", "description": "Protection of Animal Life - Refers to laws or regulations concerning the welfare and conservation of animals."}
+{"label": "fishing net", "description": "Fishing Net - Refers to laws or regulations concerning the use and specifications of fishing nets."}
+{"label": "frozen product", "description": "Frozen Product - Refers to laws or regulations concerning food items that have been frozen for preservation."}
+{"label": "common agricultural policy", "description": "Common Agricultural Policy - Refers to laws or regulations concerning the EU's agricultural support and subsidy program."}
+{"label": "hill farming", "description": "Hill Farming - Refers to laws or regulations concerning agriculture practiced in hilly or mountainous areas."}
+{"label": "coal industry", "description": "Coal Industry - Refers to laws or regulations concerning the production and trade of coal and coal-related activities."}
+{"label": "codification of EU law", "description": "Codification of EU Law - Refers to laws or regulations concerning the systematic organization and consolidation of EU legislation."}
+{"label": "European Community", "description": "European Community - Refers to laws or regulations concerning the former name of the European Union."}
+{"label": "common fisheries policy", "description": "Common Fisheries Policy - Refers to laws or regulations concerning the EU's fisheries management and conservation framework."}
+{"label": "fruit-growing", "description": "Fruit-Growing - Refers to laws or regulations concerning the cultivation and production of fruits."}
+{"label": "agricultural statistics", "description": "Agricultural Statistics - Refers to laws or regulations concerning the collection and dissemination of agricultural data and information."}
+{"label": "chemical salt", "description": "Chemical Salt - Refers to laws or regulations concerning various chemical salts and their applications."}
+{"label": "ratio", "description": "Ratio - Refers to laws or regulations concerning the proportion or relationship between different quantities or values."}
+{"label": "information", "description": "Information - Refers to laws or regulations concerning the dissemination and access to data and knowledge."}
+{"label": "North Sea", "description": "North Sea - Refers to laws or regulations specific to the maritime region of the North Sea."}
+{"label": "distributive trades", "description": "Distributive Trades - Refers to laws or regulations concerning wholesale and retail trade activities."}
+{"label": "producer price", "description": "Producer Price - Refers to laws or regulations concerning the price at which goods are sold by producers."}
+{"label": "purchase price", "description": "Purchase Price - Refers to laws or regulations concerning the price at which goods are bought."}
+{"label": "quality standard", "description": "Quality Standard - Refers to laws or regulations concerning the criteria and requirements for product quality."}
+{"label": "preparation for market", "description": "Preparation for Market - Refers to laws or regulations concerning activities and processes before goods are brought to market."}
+{"label": "olive", "description": "Olive - Refers to laws or regulations concerning the cultivation and production of olives and olive-related products."}
+{"label": "Ukraine", "description": "Ukraine - Refers to laws or regulations specific to the country of Ukraine."}
+{"label": "farm prices", "description": "Farm Prices - Refers to laws or regulations concerning the prices of agricultural products at the farm level."}
+{"label": "leaf vegetable", "description": "Leaf Vegetable - Refers to laws or regulations concerning the cultivation and trade of leafy green vegetables."}
+{"label": "perishable goods", "description": "Perishable Goods - Refers to laws or regulations concerning items that are subject to spoilage or decay."}
+{"label": "game meat", "description": "Game Meat - Refers to laws or regulations concerning the meat of wild animals hunted for consumption."}
+{"label": "rabbit meat", "description": "Rabbit Meat - Refers to laws or regulations concerning the production and trade of rabbit meat."}
+{"label": "herbicide", "description": "Herbicide - Refers to laws or regulations concerning chemical substances used to control or eliminate weeds."}
+{"label": "Baltic States", "description": "Baltic States - Refers to laws or regulations specific to the countries of Estonia, Latvia, and Lithuania collectively known as the Baltic States."}
+{"label": "South America", "description": "South America - Refers to laws or regulations specific to the continent of South America."}
+{"label": "tropical disease", "description": "Tropical Disease - Refers to laws or regulations concerning diseases prevalent in tropical regions."}
+{"label": "European integration", "description": "European Integration - Refers to laws or regulations concerning the process of closer cooperation and harmonization among European Union member states."}
+{"label": "customs territory (EU)", "description": "Customs Territory (EU) - Refers to laws or regulations concerning the area within which the EU's customs rules and regulations apply."}
+{"label": "administrative control", "description": "Administrative Control - Refers to laws or regulations concerning administrative oversight and monitoring of various activities."}
+{"label": "German Democratic Republic", "description": "German Democratic Republic - Refers to laws or regulations specific to the former East Germany (GDR)."}
+{"label": "basic price", "description": "Basic Price - Refers to laws or regulations concerning the initial or standard price of a product or service."}
+{"label": "bulb vegetable", "description": "Bulb Vegetable - Refers to laws or regulations concerning vegetables that grow from bulbs."}
+{"label": "Croatia", "description": "Croatia - Refers to laws or regulations specific to the country of Croatia."}
+{"label": "single payment scheme", "description": "Single Payment Scheme - Refers to laws or regulations concerning a single payment subsidy program for farmers."}
+{"label": "comparative analysis", "description": "Comparative Analysis - Refers to laws or regulations concerning the examination and comparison of different data or factors."}
+{"label": "testing", "description": "Testing - Refers to laws or regulations concerning the examination and evaluation of products or materials."}
+{"label": "alcohol", "description": "Alcohol - Refers to laws or regulations concerning alcoholic beverages."}
+{"label": "skimmed milk", "description": "Skimmed Milk - Refers to laws or regulations concerning milk with reduced fat content."}
+{"label": "fishing vessel", "description": "Fishing Vessel - Refers to laws or regulations concerning boats and ships used for fishing activities."}
+{"label": "molasses", "description": "Molasses - Refers to laws or regulations concerning a by-product of sugar production."}
+{"label": "European Food Safety Authority", "description": "European Food Safety Authority - Refers to laws or regulations concerning the EU agency responsible for food safety assessments."}
+{"label": "footwear industry", "description": "Footwear Industry - Refers to laws or regulations concerning the manufacturing and trade of footwear products."}
+{"label": "household article", "description": "Household Article - Refers to laws or regulations concerning various products used in households."}
+{"label": "export policy", "description": "Export Policy - Refers to laws or regulations concerning the government's approach and rules for exporting goods."}
+{"label": "fish product", "description": "Fish Product - Refers to laws or regulations concerning processed or preserved fish and seafood products."}
+{"label": "Baltic Sea", "description": "Baltic Sea - Refers to laws or regulations specific to the maritime region of the Baltic Sea."}
+{"label": "market prices", "description": "Market Prices - Refers to laws or regulations concerning the prevailing prices of goods and services in the market."}
+{"label": "live animal", "description": "Live Animal - Refers to laws or regulations concerning animals intended for trade or breeding purposes."}
+{"label": "information network", "description": "Information Network - Refers to laws or regulations concerning interconnected systems for sharing and disseminating information."}
+{"label": "cif price", "description": "CIF Price - Refers to laws or regulations concerning the cost, insurance, and freight price of imported goods."}
+{"label": "private stock", "description": "Private Stock - Refers to laws or regulations concerning privately held reserves of goods."}
+{"label": "Guinea-Bissau", "description": "Guinea-Bissau - Refers to laws or regulations specific to the country of Guinea-Bissau."}
+{"label": "smallholding", "description": "Smallholding - Refers to laws or regulations concerning small farms or agricultural holdings."}
+{"label": "hormone", "description": "Hormone - Refers to laws or regulations concerning chemical messengers that regulate biological processes."}
+{"label": "bird", "description": "Bird - Refers to laws or regulations concerning avian species."}
+{"label": "milk by-product", "description": "Milk By-Product - Refers to laws or regulations concerning secondary products derived from milk processing."}
+{"label": "threshold price", "description": "Threshold Price - Refers to laws or regulations concerning a minimum price level for certain products."}
+{"label": "suspension of customs duties", "description": "Suspension of Customs Duties - Refers to laws or regulations concerning the temporary exemption from customs duties."}
+{"label": "isoglucose", "description": "Isoglucose - Refers to laws or regulations concerning a type of sugar derived from starch."}
+{"label": "regulation of agricultural production", "description": "Regulation of Agricultural Production - Refers to laws or regulations concerning the management and control of agricultural output."}
+{"label": "production surplus", "description": "Production Surplus - Refers to laws or regulations concerning excess production beyond demand."}
+{"label": "packaging", "description": "Packaging - Refers to laws or regulations concerning the materials and containers used to protect and transport products."}
+{"label": "regions of Germany", "description": "Regions of Germany - Refers to laws or regulations specific to different administrative divisions or territories within Germany."}
+{"label": "equidae", "description": "Equidae - Refers to laws or regulations concerning the family of horse-like mammals."}
+{"label": "spirits", "description": "Spirits - Refers to laws or regulations concerning alcoholic beverages with high alcohol content."}
+{"label": "foreign trade", "description": "Foreign Trade - Refers to laws or regulations concerning the international exchange of goods and services."}
+{"label": "zoology", "description": "Zoology - Refers to laws or regulations concerning the scientific study of animals."}
+{"label": "wild mammal", "description": "Wild Mammal - Refers to laws or regulations concerning non-domesticated mammalian species."}
+{"label": "research body", "description": "Research Body - Refers to laws or regulations concerning institutions and organizations involved in scientific research."}
+{"label": "Community certification", "description": "Community Certification - Refers to laws or regulations concerning official endorsements or approvals issued by the European Union."}
+{"label": "scientific report", "description": "Scientific Report - Refers to laws or regulations concerning detailed analyses and findings from scientific studies."}
+{"label": "beet sugar", "description": "Beet Sugar - Refers to laws or regulations concerning sugar extracted from sugar beets."}
+{"label": "cane sugar", "description": "Cane Sugar - Refers to laws or regulations concerning sugar extracted from sugar cane."}
+{"label": "Faroe Islands", "description": "Faroe Islands - Refers to laws or regulations specific to the autonomous territory of the Faroe Islands."}
+{"label": "industrial product", "description": "Industrial Product - Refers to laws or regulations concerning goods produced for industrial or commercial use."}
+{"label": "abolition of customs duties", "description": "Abolition of Customs Duties - Refers to laws or regulations concerning the elimination of customs duties on specific goods."}
+{"label": "soft fruit", "description": "Soft Fruit - Refers to laws or regulations concerning fruits with a soft or delicate texture."}
+{"label": "fishing fleet", "description": "Fishing Fleet - Refers to laws or regulations concerning the group of fishing vessels operated by a country or region."}
+{"label": "set-aside", "description": "Set-Aside - Refers to laws or regulations concerning the temporary withdrawal of agricultural land from production."}
+{"label": "harvest", "description": "Harvest - Refers to laws or regulations concerning the gathering or reaping of crops."}
+{"label": "atmospheric conditions", "description": "Atmospheric Conditions - Refers to laws or regulations concerning the state of the Earth's atmosphere and its impact."}
+{"label": "chemical industry", "description": "Chemical Industry - Refers to laws or regulations concerning the manufacturing and trade of chemical substances and products."}
+{"label": "guide price", "description": "Guide Price - Refers to laws or regulations concerning an indicative price for a product or commodity."}
+{"label": "Tunisia", "description": "Tunisia - Refers to laws or regulations specific to the country of Tunisia."}
+{"label": "export monitoring", "description": "Export Monitoring - Refers to laws or regulations concerning the surveillance and control of exported goods."}
+{"label": "Madagascar", "description": "Madagascar - Refers to laws or regulations specific to the country of Madagascar."}
+{"label": "Mauritius", "description": "Mauritius - Refers to laws or regulations specific to the country of Mauritius."}
+{"label": "Angola", "description": "Angola - Refers to laws or regulations specific to the country of Angola."}
+{"label": "Seychelles", "description": "Seychelles - Refers to laws or regulations specific to the country of Seychelles."}
+{"label": "Swaziland", "description": "Swaziland - Refers to laws or regulations specific to the country of Swaziland."}
+{"label": "transmission network", "description": "Transmission Network - Refers to laws or regulations concerning the infrastructure for transmitting energy or information."}
+{"label": "standard", "description": "Standard - Refers to laws or regulations concerning established norms and requirements."}
+{"label": "Australia", "description": "Australia - Refers to laws or regulations specific to the country of Australia."}
+{"label": "Community fisheries", "description": "Community Fisheries - Refers to laws or regulations concerning the management and conservation of fisheries resources within the EU."}
+{"label": "currency adjustment", "description": "Currency Adjustment - Refers to laws or regulations concerning the modification of exchange rates to address economic imbalances."}
+{"label": "closing of accounts", "description": "Closing of Accounts - Refers to laws or regulations concerning the finalization of financial accounts."}
+{"label": "maximum price", "description": "Maximum Price - Refers to laws or regulations concerning the upper limit of a price."}
+{"label": "management information system", "description": "Management Information System - Refers to laws or regulations concerning software and tools for managing information and data."}
+{"label": "malt", "description": "Malt - Refers to laws or regulations concerning germinated cereal grains used in brewing and distilling."}
+{"label": "reduced price", "description": "Reduced Price - Refers to laws or regulations concerning a lower price level for certain products."}
+{"label": "specification of tariff heading", "description": "Specification of Tariff Heading - Refers to laws or regulations concerning the classification of goods for customs purposes."}
+{"label": "processing industry", "description": "Processing Industry - Refers to laws or regulations concerning the transformation of raw materials into finished products."}
+{"label": "budgetary procedure", "description": "Budgetary Procedure - Refers to laws or regulations concerning the process of establishing and approving budgets."}
+{"label": "Liechtenstein", "description": "Liechtenstein - Refers to laws or regulations specific to the principality of Liechtenstein."}
+{"label": "Switzerland", "description": "Switzerland - Refers to laws or regulations specific to the country of Switzerland."}
+{"label": "rules of procedure", "description": "Rules of Procedure - Refers to laws or regulations concerning the regulations and guidelines for conducting official proceedings."}
+{"label": "safety device", "description": "Safety Device - Refers to laws or regulations concerning devices or mechanisms for ensuring safety."}
+{"label": "food additive", "description": "Food Additive - Refers to laws or regulations concerning substances added to food to improve its qualities."}
+{"label": "movement certificate", "description": "Movement Certificate - Refers to laws or regulations concerning official documents for the movement of goods."}
+{"label": "animal health", "description": "Animal Health - Refers to laws or regulations concerning the wellbeing and disease prevention in animals."}
+{"label": "silviculture", "description": "Silviculture - Refers to laws or regulations concerning the cultivation and management of forests."}
+{"label": "egg product", "description": "Egg Product - Refers to laws or regulations concerning processed or preserved eggs."}
+{"label": "decontamination", "description": "Decontamination - Refers to laws or regulations concerning the removal of contaminants or pollutants."}
+{"label": "Sardinia", "description": "Sardinia - Refers to laws or regulations specific to the Italian island of Sardinia."}
+{"label": "magnetic medium", "description": "Magnetic Medium - Refers to laws or regulations concerning storage media that use magnetic fields for data storage."}
+{"label": "Pakistan", "description": "Pakistan - Refers to laws or regulations specific to the country of Pakistan."}
+{"label": "soft cheese", "description": "Soft Cheese - Refers to laws or regulations concerning cheeses with a soft and creamy texture."}
+{"label": "medicament", "description": "Medicament - Refers to laws or regulations concerning medical products and drugs."}
+{"label": "mutual recognition principle", "description": "Mutual Recognition Principle - Refers to laws or regulations concerning the acceptance of standards and certifications between countries."}
+{"label": "public expenditure", "description": "Public Expenditure - Refers to laws or regulations concerning government spending and budget allocation."}
+{"label": "cows’ milk cheese", "description": "Cows’ Milk Cheese - Refers to laws or regulations concerning cheeses made from cows’ milk."}
+{"label": "fixing of prices", "description": "Fixing of Prices - Refers to laws or regulations concerning the establishment of product prices."}
+{"label": "representative market price", "description": "Representative Market Price - Refers to laws or regulations concerning the indicative price of a product based on market conditions."}
+{"label": "reference price", "description": "Reference Price - Refers to laws or regulations concerning the benchmark price used for comparison or subsidy calculations."}
+{"label": "dried product", "description": "Dried Product - Refers to laws or regulations concerning goods that have been dehydrated to remove moisture."}
+{"label": "Luxembourg", "description": "Luxembourg - Refers to laws or regulations specific to the country of Luxembourg."}
+{"label": "signalling device", "description": "Signalling Device - Refers to laws or regulations concerning devices used for signaling or communication."}
+{"label": "developing countries", "description": "Developing Countries - Refers to laws or regulations concerning countries with less advanced economies."}
+{"label": "price increase", "description": "Price Increase - Refers to laws or regulations concerning the rise in the cost of goods or services."}
+{"label": "knitted and crocheted goods", "description": "Knitted and Crocheted Goods - Refers to laws or regulations concerning textiles created through knitting or crocheting."}
+{"label": "food consumption", "description": "Food Consumption - Refers to laws or regulations concerning the patterns and habits of consuming food."}
+{"label": "medical device", "description": "Medical Device - Refers to laws or regulations concerning instruments or equipment used for medical purposes."}
+{"label": "fortified wine", "description": "Fortified Wine - Refers to laws or regulations concerning wines with added alcohol."}
+{"label": "baby food", "description": "Baby Food - Refers to laws or regulations concerning food products specifically designed for infants."}
+{"label": "fish", "description": "Fish - Refers to laws or regulations concerning aquatic organisms used as food."}
+{"label": "food chemistry", "description": "Food Chemistry - Refers to laws or regulations concerning the scientific study of the chemical composition and properties of food."}
+{"label": "Former Yugoslav Republic of Macedonia", "description": "Former Yugoslav Republic of Macedonia - Refers to laws or regulations specific to the country now known as North Macedonia."}
+{"label": "North Rhine-Westphalia", "description": "North Rhine-Westphalia - Refers to laws or regulations specific to the German state of North Rhine-Westphalia."}
+{"label": "wine of superior quality", "description": "Wine of Superior Quality - Refers to laws or regulations concerning high-quality wines with specific geographical indications."}
+{"label": "sparkling wine", "description": "Sparkling Wine - Refers to laws or regulations concerning effervescent wines with carbon dioxide."}
+{"label": "fishing licence", "description": "Fishing Licence - Refers to laws or regulations concerning permits for commercial or recreational fishing activities."}
+{"label": "Scotland", "description": "Scotland - Refers to laws or regulations specific to the country of Scotland."}
+{"label": "crustacean", "description": "Crustacean - Refers to laws or regulations concerning marine arthropods such as crabs and lobsters."}
+{"label": "Belarus", "description": "Belarus - Refers to laws or regulations specific to the country of Belarus."}
+{"label": "pesticide", "description": "Pesticide - Refers to laws or regulations concerning substances used to control pests in agriculture."}
+{"label": "slaughter premium", "description": "Slaughter Premium - Refers to laws or regulations concerning financial incentives for the slaughter of animals."}
+{"label": "quality label", "description": "Quality Label - Refers to laws or regulations concerning certifications and labels that denote product quality."}
+{"label": "insecticide", "description": "Insecticide - Refers to laws or regulations concerning substances used to control insects."}
+{"label": "simplification of formalities", "description": "Simplification of Formalities - Refers to laws or regulations concerning the streamlining of administrative procedures."}
+{"label": "fishery produce", "description": "Fishery Produce - Refers to laws or regulations concerning products derived from fishing activities."}
+{"label": "occupational safety", "description": "Occupational Safety - Refers to laws or regulations concerning the protection of workers' health and safety."}
+{"label": "tractor", "description": "Tractor - Refers to laws or regulations concerning motor vehicles used in agriculture."}
+{"label": "food processing", "description": "Food Processing - Refers to laws or regulations concerning the transformation and preservation of food."}
+{"label": "artificial insemination", "description": "Artificial Insemination - Refers to laws or regulations concerning the introduction of sperm into the reproductive tract."}
+{"label": "goat", "description": "Goat - Refers to laws or regulations concerning the domesticated ruminant animal species Capra aegagrus hircus."}
+{"label": "Middle East", "description": "Middle East - Refers to laws or regulations specific to the region of the Middle East."}
+{"label": "production capacity", "description": "Production Capacity - Refers to laws or regulations concerning the maximum output of goods or services."}
+{"label": "association agreement (EU)", "description": "Association Agreement (EU) - Refers to laws or regulations concerning agreements between the EU and a non-EU country or region."}
+{"label": "Chile", "description": "Chile - Refers to laws or regulations specific to the country of Chile."}
+{"label": "New Zealand", "description": "New Zealand - Refers to laws or regulations specific to the country of New Zealand."}
+{"label": "certificate of origin", "description": "Certificate of Origin - Refers to laws or regulations concerning official documents indicating the origin of goods."}
+{"label": "packaging product", "description": "Packaging Product - Refers to laws or regulations concerning materials used for enclosing and protecting goods."}
+{"label": "confidentiality", "description": "Confidentiality - Refers to laws or regulations concerning the protection of sensitive information."}
+{"label": "vegetable protein", "description": "Vegetable Protein - Refers to laws or regulations concerning proteins derived from plant sources."}
+{"label": "denaturing", "description": "Denaturing - Refers to laws or regulations concerning the alteration of the natural properties of a substance."}
+{"label": "tariff ceiling", "description": "Tariff Ceiling - Refers to laws or regulations concerning the maximum tariff rate allowed for certain goods."}
+{"label": "preferential agreement", "description": "Preferential Agreement - Refers to laws or regulations concerning trade agreements that grant preferential treatment to certain countries or products."}
+{"label": "EU market", "description": "EU Market - Refers to laws or regulations concerning the European Union's internal market for goods and services."}
+{"label": "market enlargement", "description": "Market Enlargement - Refers to laws or regulations concerning the expansion of markets for goods and services."}
+{"label": "transgenic plant", "description": "Transgenic Plant - Refers to laws or regulations concerning genetically modified plants."}
+{"label": "groat", "description": "Groat - Refers to laws or regulations concerning hulled cereal grains."}
+{"label": "fodder plant", "description": "Fodder Plant - Refers to laws or regulations concerning plants grown as animal feed."}
+{"label": "tariff exemption", "description": "Tariff Exemption - Refers to laws or regulations concerning the waiver of customs duties for certain goods."}
+{"label": "discount sale", "description": "Discount Sale - Refers to laws or regulations concerning the offering of goods at reduced prices."}
+{"label": "devaluation", "description": "Devaluation - Refers to laws or regulations concerning the intentional reduction of a currency's value."}
+{"label": "agricultural quota", "description": "Agricultural Quota - Refers to laws or regulations concerning the fixed quantity or limit of agricultural production."}
+{"label": "protection of plant life", "description": "Protection of Plant Life - Refers to laws or regulations concerning measures to safeguard plants from pests and diseases."}
+{"label": "Community budget", "description": "Community Budget - Refers to laws or regulations concerning the budgetary framework of the European Community."}
+{"label": "radio equipment", "description": "Radio Equipment - Refers to laws or regulations concerning devices used for radio communication."}
+{"label": "catch of fish", "description": "Catch of Fish - Refers to laws or regulations concerning the quantity of fish caught in fisheries."}
+{"label": "tied sales outlet", "description": "Tied Sales Outlet - Refers to laws or regulations concerning businesses that offer products or services with conditions requiring the purchase of other goods."}
+{"label": "trademark", "description": "Trademark - Refers to laws or regulations concerning distinctive signs used to identify products or services."}
+{"label": "livestock", "description": "Livestock - Refers to laws or regulations concerning farm animals raised for agricultural purposes."}
+{"label": "consumption", "description": "Consumption - Refers to laws or regulations concerning the utilization or expenditure of goods and services."}
+{"label": "sugar refining", "description": "Sugar Refining - Refers to laws or regulations concerning the process of purifying raw sugar."}
+{"label": "leguminous vegetable", "description": "Leguminous Vegetable - Refers to laws or regulations concerning vegetables belonging to the Leguminosae family."}
+{"label": "police cooperation", "description": "Police Cooperation - Refers to laws or regulations concerning collaboration and coordination among police forces."}
+{"label": "Palestine", "description": "Palestine - Refers to laws or regulations specific to the region or territory of Palestine."}
+{"label": "tariff negotiations", "description": "Tariff Negotiations - Refers to laws or regulations concerning discussions and agreements on import/export duties."}
+{"label": "Northern Ireland", "description": "Northern Ireland - Refers to laws or regulations specific to the region of Northern Ireland."}
+{"label": "Russia", "description": "Russia - Refers to laws or regulations specific to the country of Russia."}
+{"label": "market stabilisation", "description": "Market Stabilisation - Refers to laws or regulations concerning measures to maintain stability in the market."}
+{"label": "research method", "description": "Research Method - Refers to laws or regulations concerning scientific approaches for conducting research."}
+{"label": "tube", "description": "Tube - Refers to laws or regulations concerning cylindrical containers or conduits."}
+{"label": "surveillance concerning imports", "description": "Surveillance Concerning Imports - Refers to laws or regulations concerning monitoring and control of imported goods."}
+{"label": "Algeria", "description": "Algeria - Refers to laws or regulations specific to the country of Algeria."}
+{"label": "regions of the United Kingdom", "description": "Regions of the United Kingdom - Refers to laws or regulations specific to various regions within the United Kingdom."}
+{"label": "domestic animal", "description": "Domestic Animal - Refers to laws or regulations concerning animals kept for companionship, work, or agricultural purposes."}
+{"label": "rabies", "description": "Rabies - Refers to laws or regulations concerning the prevention and control of rabies."}
+{"label": "form", "description": "Form - Refers to laws or regulations concerning official documents or application formats."}
+{"label": "average price", "description": "Average Price - Refers to laws or regulations concerning the mean value of goods or services."}
+{"label": "protective clause", "description": "Protective Clause - Refers to laws or regulations concerning provisions to safeguard certain interests."}
+{"label": "additional duty", "description": "Additional Duty - Refers to laws or regulations concerning supplementary tariffs or levies."}
+{"label": "unification of Germany", "description": "Unification of Germany - Refers to laws or regulations concerning the political and economic reunification of East and West Germany."}
+{"label": "policy on agricultural structures", "description": "Policy on Agricultural Structures - Refers to laws or regulations concerning strategies and guidelines for agricultural development and organization."}
+{"label": "invitation to tender", "description": "Invitation to Tender - Refers to laws or regulations concerning the solicitation of offers for contracts."}
+{"label": "common price policy", "description": "Common Price Policy - Refers to laws or regulations concerning the harmonization of prices for certain goods or services."}
+{"label": "olive-growing", "description": "Olive-Growing - Refers to laws or regulations concerning the cultivation of olive trees."}
+{"label": "honey", "description": "Honey - Refers to laws or regulations concerning the production and trade of honey."}
+{"label": "sampling", "description": "Sampling - Refers to laws or regulations concerning the collection and testing of samples."}
+{"label": "armed forces", "description": "Armed Forces - Refers to laws or regulations concerning the military and defense forces."}
+{"label": "war crime", "description": "War Crime - Refers to laws or regulations concerning acts recognized as serious violations of international humanitarian law during armed conflicts."}
+{"label": "Democratic Republic of the Congo", "description": "Democratic Republic of the Congo - Refers to laws or regulations specific to the country of the Democratic Republic of the Congo."}
+{"label": "quality control of agricultural products", "description": "Quality Control of Agricultural Products - Refers to laws or regulations concerning inspection and assessment of agricultural product quality."}
+{"label": "sheep's milk cheese", "description": "Sheep's Milk Cheese - Refers to laws or regulations concerning cheese made from sheep's milk."}
+{"label": "goats’ milk cheese", "description": "Goats’ Milk Cheese - Refers to laws or regulations concerning cheese made from goats' milk."}
+{"label": "avian influenza", "description": "Avian Influenza - Refers to laws or regulations concerning the prevention and control of avian influenza."}
+{"label": "electrical equipment", "description": "Electrical Equipment - Refers to laws or regulations concerning devices that use or generate electricity."}
+{"label": "export levy", "description": "Export Levy - Refers to laws or regulations concerning taxes or charges on exported goods."}
+{"label": "framework agreement", "description": "Framework Agreement - Refers to laws or regulations concerning general agreements that serve as a basis for specific actions or collaborations."}
+{"label": "infectious disease", "description": "Infectious Disease - Refers to laws or regulations concerning diseases that can spread from one individual to another."}
+{"label": "confectionery product", "description": "Confectionery Product - Refers to laws or regulations concerning sweet or sugary food items."}
+{"label": "beverage industry", "description": "Beverage Industry - Refers to laws or regulations concerning the production and trade of beverages."}
+{"label": "Union transit", "description": "Union Transit - Refers to laws or regulations concerning the movement of goods through the customs territory of the European Union."}
+{"label": "delivery", "description": "Delivery - Refers to laws or regulations concerning the transfer or receipt of goods."}
+{"label": "ferro-alloy", "description": "Ferro-Alloy - Refers to laws or regulations concerning alloys of iron with other elements."}
+{"label": "primary product", "description": "Primary Product - Refers to laws or regulations concerning raw materials or commodities."}
+{"label": "operational programme", "description": "Operational Programme - Refers to laws or regulations concerning detailed plans for implementing policies or projects."}
+{"label": "interim agreement (EU)", "description": "Interim Agreement (EU) - Refers to laws or regulations concerning temporary agreements or arrangements."}
+{"label": "Iran", "description": "Iran - Refers to laws or regulations specific to the country of Iran."}
+{"label": "processed foodstuff", "description": "Processed Foodstuff - Refers to laws or regulations concerning food items that have undergone some form of processing."}
+{"label": "Norwegian Sea", "description": "Norwegian Sea - Refers to laws or regulations concerning the maritime region of the Norwegian Sea."}
+{"label": "financial year", "description": "Financial Year - Refers to laws or regulations concerning the accounting period for financial reporting."}
+{"label": "economic survey", "description": "Economic Survey - Refers to laws or regulations concerning the assessment and analysis of economic conditions."}
+{"label": "roadworthiness tests", "description": "Roadworthiness Tests - Refers to laws or regulations concerning safety inspections for vehicles."}
+{"label": "animal protein", "description": "Animal Protein - Refers to laws or regulations concerning proteins derived from animal sources."}
+{"label": "international agreement", "description": "International Agreement - Refers to laws or regulations concerning agreements between nations."}
+{"label": "coastal region", "description": "Coastal Region - Refers to laws or regulations concerning areas adjacent to the coastline."}
+{"label": "withdrawal price", "description": "Withdrawal Price - Refers to laws or regulations concerning the price at which products are withdrawn from the market."}
+{"label": "guarantee", "description": "Guarantee - Refers to laws or regulations concerning assurances or warranties."}
+{"label": "radioactive pollution", "description": "Radioactive Pollution - Refers to laws or regulations concerning the release of radioactive substances into the environment."}
+{"label": "plantation", "description": "Plantation - Refers to laws or regulations concerning large-scale agricultural estates."}
+{"label": "antibiotic", "description": "Antibiotic - Refers to laws or regulations concerning drugs used to treat bacterial infections."}
+{"label": "sugar levy", "description": "Sugar Levy - Refers to laws or regulations concerning taxes or charges on sugar or sugar-containing products."}
+{"label": "area of holding", "description": "Area of Holding - Refers to laws or regulations concerning the land area used for agricultural activities."}
+{"label": "breeding animal", "description": "Breeding Animal - Refers to laws or regulations concerning animals used for reproduction and breeding."}
+{"label": "producer co-responsibility", "description": "Producer Co-Responsibility - Refers to laws or regulations concerning the responsibility of producers for managing their products' environmental impact."}
+{"label": "chemical compound", "description": "Chemical Compound - Refers to laws or regulations concerning substances formed by the combination of chemical elements."}
+{"label": "wood product", "description": "Wood Product - Refers to laws or regulations concerning products derived from wood."}
+{"label": "financial loss", "description": "Financial Loss - Refers to laws or regulations concerning monetary losses incurred by individuals or entities."}
+{"label": "countervailing charge", "description": "Countervailing Charge - Refers to laws or regulations concerning additional duties or charges on imports to counteract subsidies in exporting countries."}
+{"label": "sugar beet", "description": "Sugar Beet - Refers to laws or regulations concerning the cultivation and processing of sugar beet."}
+{"label": "agricultural advisory services", "description": "Agricultural Advisory Services - Refers to laws or regulations concerning professional advice and support for farmers."}
+{"label": "socioeconomic conditions", "description": "Socioeconomic Conditions - Refers to laws or regulations concerning the economic and social aspects of a community or society."}
+{"label": "occupational health", "description": "Occupational Health - Refers to laws or regulations concerning the health and safety of workers in the workplace."}
+{"label": "Israel", "description": "Israel - Refers to laws or regulations specific to the country of Israel."}
+{"label": "tariff policy", "description": "Tariff Policy - Refers to laws or regulations concerning the pricing of imported and exported goods."}
+{"label": "embryo and foetus", "description": "Embryo and Foetus - Refers to laws or regulations concerning the protection of embryos and foetuses."}
+{"label": "root vegetable", "description": "Root Vegetable - Refers to laws or regulations concerning vegetables that grow underground."}
+{"label": "calf", "description": "Calf - Refers to laws or regulations concerning young domestic cattle."}
+{"label": "animal welfare", "description": "Animal Welfare - Refers to laws or regulations concerning the well-being and humane treatment of animals."}
+{"label": "supervisory body", "description": "Supervisory Body - Refers to laws or regulations concerning organizations or entities responsible for oversight and monitoring."}
+{"label": "Peru", "description": "Peru - Refers to laws or regulations specific to the country of Peru."}
+{"label": "stabilisation and association agreement", "description": "Stabilisation and Association Agreement - Refers to laws or regulations concerning agreements between the EU and countries seeking to establish closer ties."}
+{"label": "allowances and expenses", "description": "Allowances and Expenses - Refers to laws or regulations concerning financial compensation and reimbursements."}
+{"label": "quality control of industrial products", "description": "Quality Control of Industrial Products - Refers to laws or regulations concerning inspection and assessment of industrial product quality."}
+{"label": "child", "description": "Child - Refers to laws or regulations concerning individuals under the age of majority."}
+{"label": "distribution of aid", "description": "Distribution of Aid - Refers to laws or regulations concerning the allocation and delivery of aid or assistance."}
+{"label": "replanting", "description": "Replanting - Refers to laws or regulations concerning the replanting of crops or trees."}
+{"label": "directory", "description": "Directory - Refers to laws or regulations concerning organized lists of information."}
+{"label": "pharmaceutical product", "description": "Pharmaceutical Product - Refers to laws or regulations concerning medicinal drugs and pharmaceuticals."}
+{"label": "organic farming", "description": "Organic Farming - Refers to laws or regulations concerning agricultural practices that prioritize natural and sustainable methods."}
+{"label": "standardisation", "description": "Standardisation - Refers to laws or regulations concerning the establishment of uniform standards and specifications."}
+{"label": "enzyme", "description": "Enzyme - Refers to laws or regulations concerning proteins that act as catalysts in biological processes."}
+{"label": "weights and measures", "description": "Weights and Measures - Refers to laws or regulations concerning the standardization and control of weights and measures for commercial transactions."}
+{"label": "forces abroad", "description": "Forces Abroad - Refers to laws or regulations concerning the deployment and activities of military forces abroad."}
+{"label": "recording equipment", "description": "Recording Equipment - Refers to laws or regulations concerning the manufacture, sale, or use of recording equipment."}
+{"label": "national currency", "description": "National Currency - Refers to laws or regulations concerning the official currency of a nation."}
+{"label": "Libya", "description": "Libya - Refers to laws or regulations specific to the country of Libya."}
+{"label": "preservative", "description": "Preservative - Refers to laws or regulations concerning substances used to preserve food or other products."}
+{"label": "beer", "description": "Beer - Refers to laws or regulations concerning the production, sale, or consumption of beer."}
+{"label": "horticulture", "description": "Horticulture - Refers to laws or regulations concerning the cultivation and trade of plants, fruits, vegetables, and ornamental plants."}
+{"label": "anti-subsidy proceeding", "description": "Anti-subsidy Proceeding - Refers to laws or regulations concerning investigations into and actions against subsidies provided by foreign governments to their domestic industries."}
+{"label": "toy industry", "description": "Toy Industry - Refers to laws or regulations concerning the manufacturing, safety standards, and marketing of toys."}
+{"label": "Brazil", "description": "Brazil - Refers to laws or regulations specific to the country of Brazil."}
+{"label": "hard cheese", "description": "Hard Cheese - Refers to laws or regulations concerning the production, sale, or import of hard cheese varieties."}
+{"label": "slaughter animal", "description": "Slaughter Animal - Refers to laws or regulations concerning the slaughter and processing of animals for meat production."}
+{"label": "liberalisation of trade", "description": "Liberalisation of Trade - Refers to laws or regulations concerning the removal of trade barriers and promotion of free trade."}
+{"label": "USSR", "description": "USSR - Refers to laws or regulations specific to the former Union of Soviet Socialist Republics."}
+{"label": "Syria", "description": "Syria - Refers to laws or regulations specific to the country of Syria."}
+{"label": "flax", "description": "Flax - Refers to laws or regulations concerning the cultivation, processing, or trade of flax."}
+{"label": "hemp", "description": "Hemp - Refers to laws or regulations concerning the cultivation, processing, or use of hemp."}
+{"label": "customs formalities", "description": "Customs Formalities - Refers to laws or regulations concerning the procedures and documentation required for import/export customs clearance."}
+{"label": "Argentina", "description": "Argentina - Refers to laws or regulations specific to the country of Argentina."}
+{"label": "bilateral agreement", "description": "Bilateral Agreement - Refers to laws or regulations concerning agreements between two parties or countries."}
+{"label": "fertiliser", "description": "Fertiliser - Refers to laws or regulations concerning the production, sale, or use of fertilizers."}
+{"label": "buffalo meat", "description": "Buffalo Meat - Refers to laws or regulations concerning the production, import, or sale of buffalo meat."}
+{"label": "living plant", "description": "Living Plant - Refers to laws or regulations concerning the import/export, sale, or transport of living plants."}
+{"label": "tax on consumption", "description": "Tax on Consumption - Refers to laws or regulations concerning indirect taxes on goods and services."}
+{"label": "pet food", "description": "Pet Food - Refers to laws or regulations concerning the production, labeling, and safety of pet food products."}
+{"label": "EU financing arrangements", "description": "EU Financing Arrangements - Refers to laws or regulations concerning the financial mechanisms and budgetary arrangements within the European Union."}
+{"label": "chemical fertiliser", "description": "Chemical Fertiliser - Refers to laws or regulations concerning the production, sale, or use of chemical-based fertilizers."}
+{"label": "dairy industry", "description": "Dairy Industry - Refers to laws or regulations concerning the dairy sector, including milk and dairy product production."}
+{"label": "raw milk", "description": "Raw Milk - Refers to laws or regulations concerning the production, sale, or processing of unpasteurized/raw milk."}
+{"label": "dairy production", "description": "Dairy Production - Refers to laws or regulations concerning the production and management of dairy farms and dairy-related activities."}
+{"label": "redevelopment aid", "description": "Redevelopment Aid - Refers to laws or regulations concerning financial assistance and support for redevelopment projects."}
+{"label": "agricultural market", "description": "Agricultural Market - Refers to laws or regulations concerning the trading and marketing of agricultural products."}
+{"label": "Egypt", "description": "Egypt - Refers to laws or regulations specific to the country of Egypt."}
+{"label": "EU agriculture committee", "description": "EU Agriculture Committee - Refers to laws or regulations concerning the establishment, composition, and functions of the EU committee responsible for agricultural policy and issues."}
+{"label": "poultry farming", "description": "Poultry Farming - Refers to laws or regulations concerning the breeding, welfare, and health of poultry in farming practices."}
+{"label": "market protection", "description": "Market Protection - Refers to laws or regulations concerning measures to protect domestic markets."}
+{"label": "spare part", "description": "Spare Part - Refers to laws or regulations concerning the production, sale, or import of spare parts for machinery or equipment."}
+{"label": "Guinea", "description": "Guinea - Refers to laws or regulations specific to the country of Guinea."}
+{"label": "textile fibre", "description": "Textile Fibre - Refers to laws or regulations concerning the classification, labelling, and use of textile fibers in products."}
+{"label": "lighting equipment", "description": "Lighting Equipment - Refers to laws or regulations concerning the production, import, or sale of lighting equipment."}
+{"label": "accountant", "description": "Accountant - Refers to laws or regulations concerning the professional practice of accountancy and accounting services."}
+{"label": "pharmaceutical legislation", "description": "Pharmaceutical Legislation - Refers to laws or regulations concerning the approval, marketing, and distribution of pharmaceutical products."}
+{"label": "Africa", "description": "Africa - Refers to laws or regulations concerning the continent of Africa as a whole or specific regions within Africa."}
+{"label": "polymer", "description": "Polymer - Refers to laws or regulations concerning the use of polymers in various applications."}
+{"label": "Jordan", "description": "Jordan - Refers to laws or regulations specific to the country of Jordan."}
+{"label": "voluntary organisation", "description": "Voluntary Organisation - Refers to laws or regulations concerning non-governmental and non-profit organizations operating on a voluntary basis."}
+{"label": "purchase", "description": "Purchase - Refers to laws or regulations concerning the process of buying goods or services."}
+{"label": "guarantee threshold", "description": "Guarantee Threshold - Refers to laws or regulations concerning the minimum level of guarantee required for certain financial transactions."}
+{"label": "semi-metal", "description": "Semi-Metal - Refers to laws or regulations concerning semi-metallic elements or materials."}
+{"label": "indemnification", "description": "Indemnification - Refers to laws or regulations concerning compensation or reimbursement for losses or damages."}
+{"label": "Mexico", "description": "Mexico - Refers to laws or regulations specific to the country of Mexico."}
+{"label": "Sri Lanka", "description": "Sri Lanka - Refers to laws or regulations specific to the country of Sri Lanka."}
+{"label": "animal tuberculosis", "description": "Animal Tuberculosis - Refers to laws or regulations concerning the prevention and control of tuberculosis in animals."}
+{"label": "transport of dangerous goods", "description": "Transport of Dangerous Goods - Refers to laws or regulations concerning the safe transportation of hazardous materials."}
+{"label": "soya bean", "description": "Soya Bean - Refers to laws or regulations concerning the production, import, or use of soybeans."}
+{"label": "protected area", "description": "Protected Area - Refers to laws or regulations concerning designated areas with special environmental protection."}
+{"label": "Greenland", "description": "Greenland - Refers to laws or regulations specific to the territory of Greenland."}
+{"label": "temporary admission", "description": "Temporary Admission - Refers to laws or regulations concerning the temporary import or use of goods."}
+{"label": "Protocol (EU)", "description": "Protocol (EU) - Refers to laws or regulations concerning protocols related to EU treaties or agreements."}
+{"label": "food supplement", "description": "Food Supplement - Refers to laws or regulations concerning dietary supplements."}
+{"label": "trade policy", "description": "Trade Policy - Refers to laws or regulations concerning the policies and measures related to international trade."}
+{"label": "zootechnics", "description": "Zootechnics - Refers to laws or regulations concerning animal breeding and husbandry practices."}
+{"label": "fresh fish", "description": "Fresh Fish - Refers to laws or regulations concerning the handling and trade of freshly caught fish."}
+{"label": "refrigerated product", "description": "Refrigerated Product - Refers to laws or regulations concerning products that require refrigeration during transportation or storage."}
+{"label": "veterinary medicinal product", "description": "Veterinary Medicinal Product - Refers to laws or regulations concerning medicines and treatments for animals."}
+{"label": "microorganism", "description": "Microorganism - Refers to laws or regulations concerning microorganisms and their use or manipulation."}
+{"label": "decision-making body (EU)", "description": "Decision-making Body (EU) - Refers to laws or regulations concerning the bodies responsible for making decisions within the EU."}
+{"label": "animal leucosis", "description": "Animal Leucosis - Refers to laws or regulations concerning a group of diseases affecting animals."}
+{"label": "Dominican Republic", "description": "Dominican Republic - Refers to laws or regulations specific to the country of the Dominican Republic."}
+{"label": "Europe", "description": "Europe - Refers to laws or regulations concerning the continent of Europe as a whole or the European region."}
+{"label": "mushroom-growing", "description": "Mushroom-Growing - Refers to laws or regulations concerning the cultivation and trade of mushrooms."}
+{"label": "European Environment Agency", "description": "European Environment Agency - Refers to laws or regulations concerning the establishment and functions of the European Environment Agency responsible for environmental protection and assessment within the EU."}
+{"label": "Lebanon", "description": "Lebanon - Refers to laws or regulations specific to the country of Lebanon."}
+{"label": "Lombardy", "description": "Lombardy - Refers to laws or regulations specific to the Lombardy region in Italy."}
+{"label": "production improvement", "description": "Production Improvement - Refers to laws or regulations concerning measures to improve production processes and efficiency."}
+{"label": "livestock farming", "description": "Livestock Farming - Refers to laws or regulations concerning the breeding and management of farm animals."}
+{"label": "apiculture", "description": "Apiculture - Refers to laws or regulations concerning beekeeping and the production of honey and other bee products."}
+{"label": "sunflower seed oil", "description": "Sunflower Seed Oil - Refers to laws or regulations concerning the production and trade of sunflower seed oil."}
+{"label": "milk fat", "description": "Milk Fat - Refers to laws or regulations concerning the fat content of milk and dairy products."}
+{"label": "Philippines", "description": "Philippines - Refers to laws or regulations specific to the country of the Philippines."}
+{"label": "glass", "description": "Glass - Refers to laws or regulations concerning glass products."}
+{"label": "expenditure", "description": "Expenditure - Refers to laws or regulations concerning financial spending and budget allocation."}
+{"label": "clock and watch industry", "description": "Clock and Watch Industry - Refers to laws or regulations concerning the production and trade of clocks and watches."}
+{"label": "glucose", "description": "Glucose - Refers to laws or regulations concerning the use and labeling of glucose in food and medical products."}
+{"label": "milk protein", "description": "Milk Protein - Refers to laws or regulations concerning the protein content of milk and dairy products."}
+{"label": "republic", "description": "Republic - Refers to laws or regulations concerning the form of government where the country is considered a republic."}
+{"label": "non-profit organisation", "description": "Non-Profit Organisation - Refers to laws or regulations concerning organizations operated for public or social welfare purposes."}
+{"label": "health policy", "description": "Health Policy - Refers to laws or regulations concerning policies and measures related to healthcare and public health."}
+{"label": "import tax", "description": "Import Tax - Refers to laws or regulations concerning taxes levied on imported goods."}
+{"label": "cosmetic product", "description": "Cosmetic Product - Refers to laws or regulations concerning the safety and labeling of cosmetic products."}
+{"label": "Maghreb", "description": "Maghreb - Refers to laws or regulations concerning the region of Maghreb in North Africa."}
+{"label": "Mediterranean region (EU)", "description": "Mediterranean Region (EU) - Refers to laws or regulations concerning the countries and territories located in the Mediterranean region and their relations with the EU."}
+{"label": "wood industry", "description": "Wood Industry - Refers to laws or regulations concerning the production, trade, and use of wood and wood products."}
+{"label": "EU stock", "description": "EU Stock - Refers to laws or regulations concerning the stock market and trading of securities within the EU."}
+{"label": "stock", "description": "Stock - Refers to laws or regulations concerning the supply and availability of goods or products."}
+{"label": "export tax", "description": "Export Tax - Refers to laws or regulations concerning taxes levied on exported goods."}
+{"label": "Moldova", "description": "Moldova - Refers to laws or regulations specific to the country of Moldova."}
+{"label": "fish farming", "description": "Fish Farming - Refers to laws or regulations concerning the breeding and cultivation of fish in aquaculture."}
+{"label": "guaranteed price", "description": "Guaranteed Price - Refers to laws or regulations concerning the minimum price or support price guaranteed to producers for certain agricultural products."}
+{"label": "scientific research", "description": "Scientific Research - Refers to laws or regulations concerning research activities and scientific studies."}
+{"label": "storage of food", "description": "Storage of Food - Refers to laws or regulations concerning the proper storage and handling of food products."}
+{"label": "European Chemicals Agency", "description": "European Chemicals Agency - Refers to laws or regulations concerning the establishment and functions of the European Chemicals Agency responsible for the registration and evaluation of chemicals within the EU."}
+{"label": "peripheral region", "description": "Peripheral Region - Refers to laws or regulations concerning regions that are geographically remote or economically less developed."}
+{"label": "early childhood", "description": "Early Childhood - Refers to laws or regulations concerning the care, education, and protection of young children."}
+{"label": "compensatory financing", "description": "Compensatory Financing - Refers to laws or regulations concerning financial assistance provided to compensate for losses or adverse effects."}
+{"label": "material of animal origin", "description": "Material of Animal Origin - Refers to laws or regulations concerning materials derived from animals."}
+{"label": "advance payment", "description": "Advance Payment - Refers to laws or regulations concerning the payment made in advance for goods or services."}
+{"label": "customs tariff", "description": "Customs Tariff - Refers to laws or regulations concerning the classification and taxation of goods for customs purposes."}
+{"label": "epidemiology", "description": "Epidemiology - Refers to laws or regulations concerning the study and analysis of diseases and their patterns in populations."}
+{"label": "modernisation aid", "description": "Modernisation Aid - Refers to laws or regulations concerning financial support provided to modernize and upgrade certain sectors or industries."}
+{"label": "sweetener", "description": "Sweetener - Refers to laws or regulations concerning substances used to sweeten food and beverages."}
+{"label": "rabbit", "description": "Rabbit - Refers to laws or regulations concerning the breeding, welfare, and marketing of rabbits."}
+{"label": "textile plant", "description": "Textile Plant - Refers to laws or regulations concerning plants used in the textile industry."}
+{"label": "agricultural structure", "description": "Agricultural Structure - Refers to laws or regulations concerning the organization and characteristics of the agricultural sector."}
+{"label": "pasta", "description": "Pasta - Refers to laws or regulations concerning the production and labeling of pasta products."}
+{"label": "sound reproduction equipment", "description": "Sound Reproduction Equipment - Refers to laws or regulations concerning equipment used for sound recording and playback."}
+{"label": "Senegal", "description": "Senegal - Refers to laws or regulations specific to the country of Senegal."}
+{"label": "metrology", "description": "Metrology - Refers to laws or regulations concerning the science and measurement standards."}
+{"label": "aid programme", "description": "Aid Programme - Refers to laws or regulations concerning development assistance and aid programs."}
+{"label": "butter oil", "description": "Butter Oil - Refers to laws or regulations concerning the product derived from butter."}
+{"label": "re-import", "description": "Re-import - Refers to laws or regulations concerning the importation of goods that were previously exported."}
+{"label": "farmer", "description": "Farmer - Refers to laws or regulations concerning individuals engaged in agricultural activities."}
+{"label": "evaluation method", "description": "Evaluation Method - Refers to laws or regulations concerning methods used for assessing or evaluating various aspects."}
+{"label": "dairy ice cream", "description": "Dairy Ice Cream - Refers to laws or regulations concerning ice cream products made from dairy ingredients."}
+{"label": "suckler cow", "description": "Suckler Cow - Refers to laws or regulations concerning cows kept for breeding and raising calves for beef production."}
+{"label": "meat", "description": "Meat - Refers to laws or regulations concerning the production, trade, and safety of meat products."}
+{"label": "Euratom Supply Agency", "description": "Euratom Supply Agency - Refers to laws or regulations concerning the agency responsible for ensuring the supply of nuclear materials for EU member states under the Euratom Treaty."}
+{"label": "environmental impact", "description": "Environmental Impact - Refers to laws or regulations concerning the assessment and mitigation of environmental effects of projects and activities."}
+{"label": "Isle of Man", "description": "Isle of Man - Refers to laws or regulations specific to the territory of the Isle of Man."}
+{"label": "food hygiene", "description": "Food Hygiene - Refers to laws or regulations concerning the hygiene and safety standards of food products."}
+{"label": "protection of animals", "description": "Protection of Animals - Refers to laws or regulations concerning the welfare and rights of animals."}
+{"label": "agricultural policy", "description": "Agricultural Policy - Refers to laws or regulations concerning the policies and measures related to agriculture and rural development."}
+{"label": "World Trade Organisation", "description": "World Trade Organisation - Refers to laws or regulations concerning the international organization responsible for global trade rules and dispute resolution."}
+{"label": "EC Regulation", "description": "EC Regulation - Refers to laws or regulations issued by the European Commission that are directly applicable in EU member states without the need for national transposition."}
+{"label": "minimum stock", "description": "Minimum Stock - Refers to laws or regulations concerning the minimum level of goods required to be maintained in stock."}
+{"label": "support policy", "description": "Support Policy - Refers to laws or regulations concerning policies and measures to provide support and assistance."}
+{"label": "Central and Eastern European Countries", "description": "Central and Eastern European Countries - Refers to laws or regulations concerning the countries in the Central and Eastern European region."}
+{"label": "decorative item", "description": "Decorative Item - Refers to laws or regulations concerning items used for decoration or ornamentation."}
+{"label": "farm return", "description": "Farm Return - Refers to laws or regulations concerning the reporting and documentation of farm income and expenses."}
+{"label": "pension scheme", "description": "Pension Scheme - Refers to laws or regulations concerning retirement plans and pensions."}
+{"label": "reform of the CAP", "description": "Reform of the CAP - Refers to laws or regulations concerning the reform and changes to the Common Agricultural Policy of the EU."}
+{"label": "legal person", "description": "Legal Person - Refers to laws or regulations concerning entities recognized as having legal rights and obligations."}
+{"label": "root crop", "description": "Root Crop - Refers to laws or regulations concerning crops that are grown for their edible roots."}
+{"label": "freshwater fish", "description": "Freshwater Fish - Refers to laws or regulations concerning fish species that live in freshwater habitats."}
+{"label": "Mediterranean Sea", "description": "Mediterranean Sea - Refers to laws or regulations concerning the sea and maritime activities in the Mediterranean region."}
+{"label": "desiccated product", "description": "Desiccated Product - Refers to laws or regulations concerning products that have been dried or dehydrated."}
+{"label": "labour mobility", "description": "Labour Mobility - Refers to laws or regulations concerning the movement and employment of workers across borders."}
+{"label": "EU agricultural market", "description": "EU Agricultural Market - Refers to laws or regulations concerning the market and trade of agricultural products within the EU."}
+{"label": "mountain region", "description": "Mountain Region - Refers to laws or regulations concerning regions with significant mountainous terrain."}
+{"label": "medical research", "description": "Medical Research - Refers to laws or regulations concerning research activities and studies related to medicine and healthcare."}
+{"label": "vehicle registration", "description": "Vehicle Registration - Refers to laws or regulations concerning the registration and licensing of vehicles."}
+{"label": "Asia", "description": "Asia - Refers to laws or regulations concerning the continent of Asia as a whole or specific regions within Asia."}
+{"label": "veterinary medicine", "description": "Veterinary Medicine - Refers to laws or regulations concerning medicines and treatments for animals."}
+{"label": "least-developed country", "description": "Least-Developed Country - Refers to laws or regulations concerning countries with the lowest indicators of socioeconomic development."}
+{"label": "employment policy", "description": "Employment Policy - Refers to laws or regulations concerning policies and measures related to employment and labor market."}
+{"label": "balance of payments assistance", "description": "Balance of Payments Assistance - Refers to laws or regulations concerning financial assistance provided to countries facing balance of payments difficulties."}
+{"label": "inward processing", "description": "Inward Processing - Refers to laws or regulations concerning the temporary importation of goods for processing or manufacturing purposes."}
+{"label": "bull", "description": "Bull - Refers to laws or regulations concerning male cattle."}
+{"label": "market", "description": "Market - Refers to laws or regulations concerning markets for goods and services."}
+{"label": "offer price", "description": "Offer Price - Refers to laws or regulations concerning the price at which goods or securities are offered for sale."}
+{"label": "Bangladesh", "description": "Bangladesh - Refers to laws or regulations specific to the country of Bangladesh."}
+{"label": "bearing", "description": "Bearing - Refers to laws or regulations concerning machine components used to support rotating shafts."}
+{"label": "donation", "description": "Donation - Refers to laws or regulations concerning the voluntary giving of gifts or funds."}
+{"label": "liqueur", "description": "Liqueur - Refers to laws or regulations concerning alcoholic beverages flavored with fruits, herbs, or other substances."}
+{"label": "flavouring", "description": "Flavouring - Refers to laws or regulations concerning substances used to add flavor to food and beverages."}
+{"label": "hydrocarbon", "description": "Hydrocarbon - Refers to laws or regulations concerning organic compounds containing hydrogen and carbon."}
+{"label": "member country", "description": "Member Country - Refers to laws or regulations concerning countries that are members of a particular organization or union."}
+{"label": "plate", "description": "Plate - Refers to laws or regulations concerning vehicle registration plates."}
+{"label": "laying poultry", "description": "Laying Poultry - Refers to laws or regulations concerning poultry raised for egg production."}
+{"label": "Rhineland-Palatinate", "description": "Rhineland-Palatinate - Refers to laws or regulations specific to the state of Rhineland-Palatinate in Germany."}
+{"label": "regions of Spain", "description": "Regions of Spain - Refers to laws or regulations specific to regions within Spain."}
+{"label": "fishing permit", "description": "Fishing Permit - Refers to laws or regulations concerning licenses and permits for fishing activities."}
+{"label": "agricultural vehicle", "description": "Agricultural Vehicle - Refers to laws or regulations concerning vehicles used for agricultural purposes."}
+{"label": "organic product", "description": "Organic Product - Refers to laws or regulations concerning agricultural products produced using organic farming methods."}
+{"label": "economic accounts for agriculture", "description": "Economic Accounts for Agriculture - Refers to laws or regulations concerning the accounting and reporting of economic activities in agriculture."}
+{"label": "inland waterway fleet", "description": "Inland Waterway Fleet - Refers to laws or regulations concerning the fleet of vessels operating on inland waterways."}
+{"label": "organic chemical", "description": "Organic Chemical - Refers to laws or regulations concerning chemical substances based on carbon compounds."}
+{"label": "coal mining", "description": "Coal Mining - Refers to laws or regulations concerning the extraction and exploitation of coal resources."}
+{"label": "sericulture", "description": "Sericulture - Refers to laws or regulations concerning the production of silk and the rearing of silkworms."}
+{"label": "intervention policy", "description": "Intervention Policy - Refers to laws or regulations concerning government intervention in the market to stabilize prices or support certain sectors."}
+{"label": "traceability", "description": "Traceability - Refers to laws or regulations concerning the ability to track the origin and history of products."}
+{"label": "tariff agreement", "description": "Tariff Agreement - Refers to laws or regulations concerning agreements on customs duties and tariffs between countries."}
+{"label": "fish disease", "description": "Fish Disease - Refers to laws or regulations concerning diseases affecting fish and aquaculture."}
+{"label": "São Tomé and Príncipe", "description": "São Tomé and Príncipe - Refers to laws or regulations specific to the country of São Tomé and Príncipe."}
+{"label": "fallow", "description": "Fallow - Refers to laws or regulations concerning land that is left uncultivated for a period to restore fertility or preserve the environment."}
+{"label": "food colouring", "description": "Food Colouring - Refers to laws or regulations concerning substances used to add color to food and beverages."}
+{"label": "renewal of an agreement", "description": "Renewal of an Agreement - Refers to laws or regulations concerning the extension or continuation of existing agreements."}
+{"label": "fisheries policy", "description": "Fisheries Policy - Refers to laws or regulations concerning the management and conservation of fishery resources."}
+{"label": "agricultural census", "description": "Agricultural Census - Refers to laws or regulations concerning the periodic survey of agricultural holdings and production."}
+{"label": "Côte d'Ivoire", "description": "Côte d'Ivoire - Refers to laws or regulations specific to the country of Côte d'Ivoire (Ivory Coast)."}
+{"label": "Lower Saxony", "description": "Lower Saxony - Refers to laws or regulations specific to the state of Lower Saxony in Germany."}
+{"label": "processed food product", "description": "Processed Food Product - Refers to laws or regulations concerning food items that have undergone processing."}
+{"label": "protein products", "description": "Protein Products - Refers to laws or regulations concerning food and supplements rich in protein."}
+{"label": "arms trade", "description": "Arms Trade - Refers to laws or regulations concerning the international trade and transfer of arms and weapons."}
+{"label": "cocoa", "description": "Cocoa - Refers to laws or regulations concerning the cultivation and trade of cocoa beans."}
+{"label": "screen", "description": "Screen - Refers to laws or regulations concerning visual display units and screens."}
+{"label": "Eastern Bloc countries", "description": "Eastern Bloc Countries - Refers to laws or regulations concerning the countries that were formerly part of the Eastern Bloc in Europe."}
+{"label": "primary sector", "description": "Primary Sector - Refers to laws or regulations concerning the sector of the economy involved in the extraction of natural resources."}
+{"label": "import refund", "description": "Import Refund - Refers to laws or regulations concerning the refund of customs duties and taxes on imported goods."}
+{"label": "Cape Verde", "description": "Cape Verde - Refers to laws or regulations specific to the country of Cape Verde."}
+{"label": "Corsica", "description": "Corsica - Refers to laws or regulations specific to the region of Corsica in France."}

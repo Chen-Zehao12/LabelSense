@@ -1,0 +1,54 @@
+{"label": "cs.IR", "description": "Information Retrieval (cs.IR) - Research on searching for information in large, unstructured collections of data, like web search engines."}
+{"label": "stat.ME", "description": "Methodology (stat.ME) - Statistical research on developing and evaluating new methods, techniques, or algorithms for data analysis."}
+{"label": "quant-ph", "description": "Quantum Physics (quant-ph) - Studies related to the fundamental principles and phenomena of quantum mechanics."}
+{"label": "cs.IT", "description": "Information Theory (cs.IT) - Research on encoding, transmitting, and decoding information efficiently in digital communications."}
+{"label": "math.IT", "description": "Information Theory (math.IT) - Mathematical research on information theory, encompassing areas like coding theory and data compression."}
+{"label": "stat.AP", "description": "Applications (stat.AP) - Statistical research focused on applying statistical methods to various real-world problems and domains."}
+{"label": "cs.CV", "description": "Computer Vision and Pattern Recognition (cs.CV) - Research on enabling computers to interpret and understand visual information, such as image and video analysis."}
+{"label": "cs.CL", "description": "Computation and Language (cs.CL) - Studies at the intersection of computer science and linguistics, including natural language processing and computational linguistics."}
+{"label": "cs.AI", "description": "Artificial Intelligence (cs.AI) - Research on creating intelligent agents or systems that can mimic human intelligence, problem-solving, and decision-making."}
+{"label": "math.NA", "description": "Numerical Analysis (math.NA) - Mathematical research on developing and analyzing numerical methods for solving problems in various fields."}
+{"label": "cs.MS", "description": "Mathematical Software (cs.MS) - Research focused on software systems and tools for mathematical computation and data analysis."}
+{"label": "cs.CR", "description": "Cryptography and Security (cs.CR) - Research on cryptographic techniques and computer security."}
+{"label": "cs.SE", "description": "Software Engineering (cs.SE) - Studies related to the design, development, and maintenance of software systems."}
+{"label": "cs.LG", "description": "Machine Learning (cs.LG) - Research on algorithms and models that enable computers to learn and improve from experience."}
+{"label": "cs.NI", "description": "Networking and Internet Architecture (cs.NI) - Studies on computer networks and protocols, including the Internet."}
+{"label": "cs.SY", "description": "Systems and Control (cs.SY) - Research on systems theory, control theory, and cyber-physical systems."}
+{"label": "cs.DS", "description": "Data Structures and Algorithms (cs.DS) - Studies on organizing and processing data efficiently."}
+{"label": "cs.CC", "description": "Computational Complexity (cs.CC) - Research on classifying computational problems based on their inherent difficulty."}
+{"label": "cs.FL", "description": "Formal Languages and Automata Theory (cs.FL) - Studies on formal languages, grammars, and automata."}
+{"label": "cs.RO", "description": "Robotics (cs.RO) - Research on designing, programming, and controlling robots."}
+{"label": "math.OC", "description": "Optimization and Control (math.OC) - Mathematical research on optimization problems and control theory."}
+{"label": "cs.MA", "description": "Multiagent Systems (cs.MA) - Research on systems composed of multiple interacting intelligent agents."}
+{"label": "cs.PF", "description": "Performance (cs.PF) - Studies on evaluating and improving the performance of computer systems and networks."}
+{"label": "cs.SI", "description": "Social and Information Networks (cs.SI) - Research on the analysis and modeling of social and information networks."}
+{"label": "physics.soc-ph", "description": "Physics and Society (physics.soc-ph) - Studies on the interactions between physics and society."}
+{"label": "cs.DC", "description": "Distributed, Parallel, and Cluster Computing (cs.DC) - Research on computing systems distributed across multiple nodes."}
+{"label": "cs.DB", "description": "Databases (cs.DB) - Studies on the storage, retrieval, and management of large-scale databases."}
+{"label": "math.CO", "description": "Combinatorics (math.CO) - Mathematical research on discrete structures and their combinations."}
+{"label": "stat.ML", "description": "Machine Learning (stat.ML) - Research on statistical approaches to machine learning."}
+{"label": "math.PR", "description": "Probability (math.PR) - Mathematical research on probability theory and stochastic processes."}
+{"label": "cs.NE", "description": "Neural and Evolutionary Computing (cs.NE) - Research on artificial neural networks and evolutionary algorithms."}
+{"label": "cs.DM", "description": "Discrete Mathematics (cs.DM) - Research on mathematical structures and techniques in discrete settings."}
+{"label": "cond-mat.stat-mech", "description": "Statistical Mechanics (cond-mat.stat-mech) - Studies on the statistical behavior of physical systems."}
+{"label": "cs.LO", "description": "Logic in Computer Science (cs.LO) - Research on logical systems and their applications in computer science."}
+{"label": "cs.CY", "description": "Computational Geometry (cs.CY) - Studies on algorithms and data structures for geometric problems."}
+{"label": "cond-mat.dis-nn", "description": "Disordered Systems and Neural Networks (cond-mat.dis-nn) - Research on complex systems with disorder, such as neural networks."}
+{"label": "cs.NA", "description": "Numerical Analysis (cs.NA) - Research on developing and analyzing numerical methods for solving mathematical problems."}
+{"label": "cs.CE", "description": "Computational Engineering, Finance, and Science (cs.CE) - Research on computational techniques applied to engineering, finance, and scientific domains."}
+{"label": "cs.SC", "description": "Symbolic Computation (cs.SC) - Studies on algorithms and systems for symbolic manipulation."}
+{"label": "cs.GT", "description": "Computer Science and Game Theory (cs.GT) - Research on the intersection of computer science and game theory."}
+{"label": "cs.HC", "description": "Human-Computer Interaction (cs.HC) - Studies on the interaction between humans and computers."}
+{"label": "q-bio.QM", "description": "Quantitative Methods (q-bio.QM) - Research on quantitative approaches in biological systems."}
+{"label": "cs.DL", "description": "Digital Libraries (cs.DL) - Studies on the organization and access to digital information and resources."}
+{"label": "q-bio.NC", "description": "Neurons and Cognition (q-bio.NC) - Research on the neural basis of cognitive processes."}
+{"label": "cs.CG", "description": "Computational Geometry (cs.CG) - Research on algorithms and data structures for geometric problems."}
+{"label": "cmp-lg", "description": "Computation and Language (cmp-lg) - Studies at the intersection of computation and linguistics."}
+{"label": "cs.PL", "description": "Programming Languages (cs.PL) - Research on programming languages and their design principles."}
+{"label": "math.LO", "description": "Logic (math.LO) - Mathematical research on formal logic and its applications."}
+{"label": "math.NT", "description": "Number Theory (math.NT) - Mathematical research on properties of integers and their relationships."}
+{"label": "cs.MM", "description": "Multimedia (cs.MM) - Research on processing and analysis of multimedia data."}
+{"label": "math.ST", "description": "Statistics Theory (math.ST) - Mathematical research on statistical methods and theory."}
+{"label": "stat.TH", "description": "Statistics Theory (stat.TH) - Mathematical research on statistical methods and theory."}
+{"label": "nlin.AO", "description": "Adaptation and Self-Organizing Systems (nlin.AO) - Studies on adaptive and self-organizing systems."}
+{"label": "physics.data-an", "description": "Data Analysis, Statistics, and Probability (physics.data-an) - Research on data analysis and statistical methods applied to various physics phenomena."}

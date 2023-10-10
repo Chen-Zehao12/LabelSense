@@ -1,0 +1,119 @@
+{"label": "copper", "description": "News articles related to the copper industry, for example, 'Copper prices surge amid increasing demand for electric vehicles.'"}
+{"label": "earn", "description": "News articles covering corporate earnings and financial performance, for example, 'Tech company XYZ reports record profits in the last quarter.'"}
+{"label": "crude", "description": "News articles concerning the crude oil market, for example, 'OPEC announces production cuts, leading to a rise in crude oil prices.'"}
+{"label": "iron-steel", "description": "News articles about the iron and steel industry, for example, 'Steel manufacturing company opens a new plant, creating hundreds of jobs.'"}
+{"label": "acq", "description": "News articles reporting on acquisitions and mergers between companies, for example, 'Company A acquires Company B for $1.2 billion.'"}
+{"label": "trade", "description": "News articles related to international trade and commerce, for example, 'Trade tensions escalate between Country X and Country Y, impacting global markets.'"}
+{"label": "grain", "description": "News articles covering the grain market, for example, 'Drought causes a decrease in wheat production, leading to higher grain prices.'"}
+{"label": "wheat", "description": "News articles specifically focused on wheat-related topics, for example, 'New wheat variety developed to withstand harsh weather conditions.'"}
+{"label": "barley", "description": "News articles specifically focused on barley-related topics, for example, 'Barley exports reach an all-time high as demand grows in Asian markets.'"}
+{"label": "gold", "description": "News articles related to the gold industry and market trends, for example, 'Investors turn to gold as a safe-haven asset amid economic uncertainty.'"}
+{"label": "ship", "description": "News articles covering the shipping industry, for example, 'Giant cargo ship sets a new record for the largest container capacity.'"}
+{"label": "gnp", "description": "News articles related to Gross National Product (GNP), for example, 'The country's GNP grows by 4% in the last quarter, surpassing expectations.'"}
+{"label": "jobs", "description": "News articles covering employment and job market, for example, 'Unemployment rate declines as the economy adds 150,000 new jobs in a month.'"}
+{"label": "lead", "description": "News articles related to the lead industry, for example, 'Lead prices soar due to supply constraints in major mining regions.'"}
+{"label": "zinc", "description": "News articles concerning the zinc industry, for example, 'Zinc demand spikes as it becomes a crucial component in renewable energy technologies.'"}
+{"label": "strategic-metal", "description": "News articles about strategic metals, for example, 'Government invests in domestic production of rare earth metals to reduce reliance on imports.'"}
+{"label": "housing", "description": "News articles covering the housing market, for example, 'Housing prices in major cities experience a downturn, affecting the real estate sector.'"}
+{"label": "interest", "description": "News articles related to interest rates and monetary policy, for example, 'Central bank announces a 0.25% increase in interest rates to combat inflation.'"}
+{"label": "bop", "description": "News articles about the balance of payments (BOP), for example, 'Trade surplus reaches an all-time high, boosting the country's BOP position.'"}
+{"label": "ipi", "description": "News articles reporting on the Industrial Production Index (IPI), for example, 'IPI shows a significant expansion in manufacturing output, indicating economic growth.'"}
+{"label": "money-fx", "description": "News articles concerning foreign exchange markets and currency, for example, 'Dollar strengthens against major currencies amid geopolitical tensions.'"}
+{"label": "corn", "description": "News articles covering the corn market, for example, 'Corn prices surge as adverse weather conditions affect crop yields.'"}
+{"label": "livestock", "description": "News articles related to the livestock industry, for example, 'Outbreak of livestock disease leads to concerns over meat supply and prices.'"}
+{"label": "lei", "description": "News articles about the Leading Economic Index (LEI), for example, 'LEI indicates potential economic slowdown as key indicators decline.'"}
+{"label": "meal-feed", "description": "News articles concerning meal and feed markets, for example, 'Increase in demand for animal feed drives up meal prices.'"}
+{"label": "tin", "description": "News articles specifically focused on tin-related topics, for example, 'Tin production hits record levels, easing global supply constraints.'"}
+{"label": "cpi", "description": "News articles related to the Consumer Price Index (CPI), for example, 'CPI shows inflationary pressures as consumer prices rise for the fifth consecutive month.'"}
+{"label": "money-supply", "description": "News articles about the money supply and monetary aggregates, for example, 'Central bank increases money supply to boost economic growth.'"}
+{"label": "coffee", "description": "News articles covering the coffee industry, for example, 'Coffee prices reach a five-year high due to reduced coffee bean production.'"}
+{"label": "dlr", "description": "News articles related to the U.S. dollar (USD) and foreign exchange, for example, 'Euro gains against the dollar as the U.S. Federal Reserve hints at a rate cut.'"}
+{"label": "rice", "description": "News articles specifically focused on rice-related topics, for example, 'Government implements measures to stabilize rice prices amid fluctuating demand.'"}
+{"label": "sugar", "description": "News articles covering the sugar industry, for example, 'Global sugar prices decline due to a bumper crop in major producing countries.'"}
+{"label": "oilseed", "description": "News articles related to oilseeds, for example, 'Soybean prices surge as adverse weather conditions affect planting in key regions.'"}
+{"label": "pet-chem", "description": "News articles about the petrochemical industry, for example, 'Demand for petrochemical products drives profits for major oil companies.'"}
+{"label": "soybean", "description": "News articles specifically focused on soybean-related topics, for example, 'Trade agreement boosts soybean exports to new international markets.'"}
+{"label": "reserves", "description": "News articles concerning reserves of natural resources, for example, 'Country discovers significant new oil reserves, bolstering energy security.'"}
+{"label": "silver", "description": "News articles related to the silver market, for example, 'Investors flock to silver as a hedge against inflation and economic uncertainty.'"}
+{"label": "carcass", "description": "News articles covering the carcass market, for example, 'Meat processors see an increase in demand for carcass cuts in the restaurant industry.'"}
+{"label": "nat-gas", "description": "News articles about natural gas, for example, 'Natural gas prices reach a new high as cold weather boosts demand for heating.'"}
+{"label": "gas", "description": "News articles specifically focused on gas-related topics, for example, 'Company X announces a major offshore gas discovery in a new exploration block.'"}
+{"label": "fuel", "description": "News articles related to fuels and energy sources, for example, 'Government introduces incentives to promote the adoption of renewable fuels.'"}
+{"label": "wpi", "description": "News articles reporting on the Wholesale Price Index (WPI), for example, 'WPI shows an increase in manufacturing costs, indicating inflationary pressures in the economy.'"}
+{"label": "cotton", "description": "News articles covering the cotton industry, for example, 'Cotton prices surge as textile manufacturers increase demand for raw materials.'"}
+{"label": "sorghum", "description": "News articles specifically focused on sorghum-related topics, for example, 'Sorghum exports reach a new record, driven by rising demand from international markets.'"}
+{"label": "veg-oil", "description": "News articles related to vegetable oils, for example, 'Palm oil production declines, leading to a rise in demand for alternative vegetable oils.'"}
+{"label": "palm-oil", "description": "News articles specifically focused on palm oil-related topics, for example, 'Palm oil sustainability efforts gain traction amidst concerns over deforestation.'"}
+{"label": "stg", "description": "News articles about the sterling pound (GBP) and foreign exchange, for example, 'Brexit uncertainties lead to a sharp decline in the sterling pound's value.'"}
+{"label": "hog", "description": "News articles covering the hog (pig) market, for example, 'African Swine Fever outbreak impacts hog prices and pork supply worldwide.'"}
+{"label": "retail", "description": "News articles related to the retail industry, for example, 'Online retail sales surge during the holiday season, reshaping consumer habits.'"}
+{"label": "yen", "description": "News articles about the Japanese yen (JPY) and foreign exchange, for example, 'Bank of Japan intervenes in the currency market to stabilize the yen's exchange rate.'"}
+{"label": "alum", "description": "News articles related to the aluminum industry, for example, 'Aluminum producers face challenges amid trade tariffs and oversupply in the global market.'"}
+{"label": "soy-oil", "description": "News articles related to soybean oil, for example, 'Soybean oil prices rise due to increased demand in the food processing industry.'"}
+{"label": "income", "description": "News articles covering income and wages, for example, 'Average household income reaches a new high, indicating economic growth.'"}
+{"label": "cocoa", "description": "News articles about the cocoa market, for example, 'Cocoa bean shortages lead to higher cocoa prices, impacting the chocolate industry.'"}
+{"label": "rubber", "description": "News articles specifically focused on the rubber industry, for example, 'Rubber production sees a significant decline due to adverse weather conditions.'"}
+{"label": "orange", "description": "News articles related to the orange market, for example, 'Orange harvest hits a record high, leading to an oversupply in the citrus market.'"}
+{"label": "soy-meal", "description": "News articles specifically focused on soybean meal-related topics, for example, 'Livestock feed manufacturers shift to soybean meal substitutes amid price fluctuations.'"}
+{"label": "rapeseed", "description": "News articles concerning the rapeseed market, for example, 'Rapeseed oil exports surge as health-conscious consumers opt for healthier cooking oils.'"}
+{"label": "heat", "description": "News articles related to heating oil and energy markets, for example, 'Cold weather forecasts drive up heating oil prices in preparation for winter.'"}
+{"label": "lumber", "description": "News articles covering the lumber and timber industry, for example, 'Lumber prices soar due to increased demand in the construction sector.'"}
+{"label": "tea", "description": "News articles specifically focused on tea-related topics, for example, 'Tea exports face challenges as adverse weather impacts tea plantations.'"}
+{"label": "austdlr", "description": "News articles related to the Australian dollar (AUD) and foreign exchange, for example, 'Australian dollar strengthens against the US dollar due to positive economic data.'"}
+{"label": "bfr", "description": "News articles about the Belgian franc (BEF) and foreign exchange, for example, 'Belgian franc depreciates as investors seek safer currencies amid geopolitical tensions.'"}
+{"label": "can", "description": "News articles specifically focused on Canada and its economy, for example, 'Canadian economy expands at a steady rate, driven by robust exports.'"}
+{"label": "castor-oil", "description": "News articles related to castor oil, for example, 'Demand for castor oil rises in the pharmaceutical industry due to its medicinal properties.'"}
+{"label": "castorseed", "description": "News articles covering the castor seed market, for example, 'Castor seed prices decline as planting area expands in major producing regions.'"}
+{"label": "citruspulp", "description": "News articles concerning citrus pulp and its applications, for example, 'Citrus pulp becomes a popular ingredient in animal feed formulations due to its nutritional benefits.'"}
+{"label": "coconut", "description": "News articles about the coconut industry, for example, 'Coconut exports from tropical countries reach new heights, driven by demand for coconut-based products.'"}
+{"label": "coconut-oil", "description": "News articles specifically focused on coconut oil, for example, 'Coconut oil gains popularity as a versatile cooking oil with various health benefits.'"}
+{"label": "copra-cake", "description": "News articles related to copra cake, for example, 'Copra cake production expands as livestock farmers adopt it as a cost-effective feed ingredient.'"}
+{"label": "corn-oil", "description": "News articles about corn oil, for example, 'Corn oil consumption rises due to the increasing health consciousness among consumers.'"}
+{"label": "cornglutenfeed", "description": "News articles related to corn gluten feed, for example, 'Corn gluten feed prices decline due to a surplus in corn processing.'"}
+{"label": "cotton-oil", "description": "News articles about cottonseed oil, for example, 'Cottonseed oil exports surge as demand grows in the cosmetic and food industries.'"}
+{"label": "cottonseed", "description": "News articles concerning the cottonseed market, for example, 'Cottonseed production faces challenges due to adverse weather conditions.'"}
+{"label": "cpu", "description": "News articles about the Central Processing Unit (CPU) and computer technology, for example, 'Tech company launches new CPU with advanced processing capabilities.'"}
+{"label": "dfl", "description": "News articles related to the Deutsche Mark (DEM) and foreign exchange, for example, 'Deutsche Mark gains ground against major currencies amid positive economic indicators.'"}
+{"label": "dkr", "description": "News articles about the Danish krone (DKK) and foreign exchange, for example, 'Danish krone weakens as the central bank lowers interest rates to stimulate the economy.'"}
+{"label": "dmk", "description": "News articles specifically focused on the Deutsche Mark (DEM) and foreign exchange, for example, 'Deutsche Mark reaches a new high against the US dollar on strong economic data.'"}
+{"label": "f-cattle", "description": "News articles covering the live cattle market, for example, 'Live cattle futures surge as meatpackers increase demand for beef production.'"}
+{"label": "fishmeal", "description": "News articles related to fishmeal, for example, 'Fishmeal prices stabilize as fish catch volumes remain consistent.'"}
+{"label": "groundnut", "description": "News articles about groundnuts (peanuts), for example, 'Groundnut exports rise due to the popularity of peanut-based snacks in the global market.'"}
+{"label": "groundnut-oil", "description": "News articles about groundnut oil, for example, 'Groundnut oil prices surge due to supply disruptions in major producing countries.'"}
+{"label": "hk", "description": "News articles related to Hong Kong and its economy, for example, 'Hong Kong's GDP growth slows amid trade tensions and global economic uncertainty.'"}
+{"label": "instal-debt", "description": "News articles concerning instalment debt and credit, for example, 'Rising consumer confidence leads to increased demand for instalment debt services.'"}
+{"label": "inventories", "description": "News articles about inventories and stockpiles, for example, 'Inventories of essential goods reach critical levels amid supply chain disruptions.'"}
+{"label": "jet", "description": "News articles specifically focused on the jet fuel market, for example, 'Jet fuel demand rebounds as air travel recovers from pandemic-related restrictions.'"}
+{"label": "l-cattle", "description": "News articles covering the lean cattle market, for example, 'Lean cattle prices decline due to oversupply in the livestock market.'"}
+{"label": "lin-meal", "description": "News articles related to linseed meal, for example, 'Linseed meal gains popularity in animal feed formulations for its high protein content.'"}
+{"label": "lin-oil", "description": "News articles specifically focused on linseed oil, for example, 'Linseed oil prices soar due to increased use in the woodworking industry.'"}
+{"label": "linseed", "description": "News articles concerning the linseed market, for example, 'Linseed production faces challenges as adverse weather affects crop yields.'"}
+{"label": "lit", "description": "News articles about Lithuanian litas (LTL) and foreign exchange, for example, 'Lithuanian litas strengthens against the euro amid economic recovery.'"}
+{"label": "naphtha", "description": "News articles related to naphtha and its use in the petrochemical industry, for example, 'Naphtha prices surge as demand for ethylene production increases.'"}
+{"label": "nickel", "description": "News articles covering the nickel market, for example, 'Nickel prices reach a new high due to strong demand from the electric vehicle industry.'"}
+{"label": "nkr", "description": "News articles about the Norwegian krone (NOK) and foreign exchange, for example, 'Norwegian krone strengthens as the central bank maintains an optimistic economic outlook.'"}
+{"label": "nzdlr", "description": "News articles about the New Zealand dollar (NZD) and foreign exchange, for example, 'New Zealand dollar faces downward pressure as trade deficit widens.'"}
+{"label": "oat", "description": "News articles concerning oats and its applications, for example, 'Oat consumption increases as consumers embrace healthier breakfast options.'"}
+{"label": "palladium", "description": "News articles related to the palladium market, for example, 'Palladium demand surges as automotive manufacturers adopt it for catalytic converters.'"}
+{"label": "palmkernel", "description": "News articles specifically focused on palm kernel, for example, 'Palm kernel oil production rises due to growing demand in the food processing industry.'"}
+{"label": "peseta", "description": "News articles about the Spanish peseta (ESP) and foreign exchange, for example, 'Spanish peseta weakens against major currencies on concerns over the country's debt.'"}
+{"label": "platinum", "description": "News articles covering the platinum market, for example, 'Platinum prices decline as investors shift focus to other precious metals.'"}
+{"label": "plywood", "description": "News articles related to the plywood industry, for example, 'Plywood manufacturers face supply chain disruptions due to a shortage of raw materials.'"}
+{"label": "pork-belly", "description": "News articles covering the pork belly market, for example, 'Pork belly prices rise as demand for bacon surges in the restaurant industry.'"}
+{"label": "potato", "description": "News articles related to potatoes and their applications, for example, 'Potato crop damages due to heavy rains lead to concerns over potato chip supply.'"}
+{"label": "propane", "description": "News articles concerning propane and its use, for example, 'Propane prices increase as demand for heating fuel grows during the winter season.'"}
+{"label": "rand", "description": "News articles about the South African rand (ZAR) and foreign exchange, for example, 'South African rand weakens against major currencies amid investor concerns over economic policies.'"}
+{"label": "rape-meal", "description": "News articles specifically focused on rape meal (canola meal), for example, 'Rape meal exports decline due to production challenges in key agricultural regions.'"}
+{"label": "rape-oil", "description": "News articles related to rape oil (canola oil), for example, 'Rape oil gains popularity in the food industry as a healthy cooking oil alternative.'"}
+{"label": "red-bean", "description": "News articles about red beans and their applications, for example, 'Red bean imports increase as it becomes a trendy ingredient in desserts and beverages.'"}
+{"label": "ringgit", "description": "News articles about the Malaysian ringgit (MYR) and foreign exchange, for example, 'Malaysian ringgit strengthens due to strong economic growth and higher export revenues.'"}
+{"label": "rupiah", "description": "News articles about the Indonesian rupiah (IDR) and foreign exchange, for example, 'Indonesian rupiah faces depreciation amid capital outflows and trade deficit.'"}
+{"label": "rye", "description": "News articles specifically focused on rye and its applications, for example, 'Rye flour demand rises as consumers seek gluten-free alternatives for baking.'"}
+{"label": "saudriyal", "description": "News articles about the Saudi riyal (SAR) and foreign exchange, for example, 'Saudi riyal stabilizes against major currencies as oil prices rebound.'"}
+{"label": "sfr", "description": "News articles about the Swiss franc (CHF) and foreign exchange, for example, 'Swiss franc gains as investors seek safe-haven assets amid global market volatility.'"}
+{"label": "skr", "description": "News articles specifically focused on the Swedish krona (SEK) and foreign exchange, for example, 'Swedish krona weakens against the euro on concerns over economic growth.'"}
+{"label": "sun-meal", "description": "News articles related to sunflower meal, for example, 'Sunflower meal prices surge as livestock farmers increase feed demand for poultry.'"}
+{"label": "sun-oil", "description": "News articles specifically focused on sunflower oil, for example, 'Sunflower oil consumption rises due to its health benefits and versatile culinary uses.'"}
+{"label": "sunseed", "description": "News articles concerning the sunseed market, for example, 'Sunseed production faces challenges amid weather-related disruptions in key growing regions.'"}
+{"label": "tapioca", "description": "News articles related to tapioca and its applications, for example, 'Tapioca starch exports increase as the food industry incorporates it into various products.'"}
+{"label": "wool", "description": "News articles covering the wool industry, for example, 'Wool prices decline as demand weakens in the textile manufacturing sector.'"}

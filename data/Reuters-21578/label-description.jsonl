@@ -1,0 +1,119 @@
+{"label": "copper", "description": "News articles related to the copper industry."}
+{"label": "earn", "description": "News articles covering corporate earnings and financial performance."}
+{"label": "crude", "description": "News articles concerning the crude oil market."}
+{"label": "iron-steel", "description": "News articles about the iron and steel industry."}
+{"label": "acq", "description": "News articles reporting on acquisitions and mergers between companies."}
+{"label": "trade", "description": "News articles related to international trade and commerce."}
+{"label": "grain", "description": "News articles covering the grain market."}
+{"label": "wheat", "description": "News articles specifically focused on wheat-related topics."}
+{"label": "barley", "description": "News articles specifically focused on barley-related topics."}
+{"label": "gold", "description": "News articles related to the gold industry and market trends."}
+{"label": "ship", "description": "News articles covering the shipping industry."}
+{"label": "gnp", "description": "News articles related to Gross National Product (GNP)."}
+{"label": "jobs", "description": "News articles covering employment and job market."}
+{"label": "lead", "description": "News articles related to the lead industry."}
+{"label": "zinc", "description": "News articles concerning the zinc industry."}
+{"label": "strategic-metal", "description": "News articles about strategic metals."}
+{"label": "housing", "description": "News articles covering the housing market."}
+{"label": "interest", "description": "News articles related to interest rates and monetary policy."}
+{"label": "bop", "description": "News articles about the balance of payments (BOP)."}
+{"label": "ipi", "description": "News articles reporting on the Industrial Production Index (IPI)."}
+{"label": "money-fx", "description": "News articles concerning foreign exchange markets and currency."}
+{"label": "corn", "description": "News articles covering the corn market."}
+{"label": "livestock", "description": "News articles related to the livestock industry."}
+{"label": "lei", "description": "News articles about the Leading Economic Index (LEI)."}
+{"label": "meal-feed", "description": "News articles concerning meal and feed markets."}
+{"label": "tin", "description": "News articles specifically focused on tin-related topics."}
+{"label": "cpi", "description": "News articles related to the Consumer Price Index (CPI)."}
+{"label": "money-supply", "description": "News articles about the money supply and monetary aggregates."}
+{"label": "coffee", "description": "News articles covering the coffee industry."}
+{"label": "dlr", "description": "News articles related to the U.S. dollar (USD) and foreign exchange."}
+{"label": "rice", "description": "News articles specifically focused on rice-related topics."}
+{"label": "sugar", "description": "News articles covering the sugar industry."}
+{"label": "oilseed", "description": "News articles related to oilseeds."}
+{"label": "pet-chem", "description": "News articles about the petrochemical industry."}
+{"label": "soybean", "description": "News articles specifically focused on soybean-related topics."}
+{"label": "reserves", "description": "News articles concerning reserves of natural resources."}
+{"label": "silver", "description": "News articles related to the silver market."}
+{"label": "carcass", "description": "News articles covering the carcass market."}
+{"label": "nat-gas", "description": "News articles about natural gas."}
+{"label": "gas", "description": "News articles specifically focused on gas-related topics."}
+{"label": "fuel", "description": "News articles related to fuels and energy sources."}
+{"label": "wpi", "description": "News articles reporting on the Wholesale Price Index (WPI)."}
+{"label": "cotton", "description": "News articles covering the cotton industry."}
+{"label": "sorghum", "description": "News articles specifically focused on sorghum-related topics."}
+{"label": "veg-oil", "description": "News articles related to vegetable oils."}
+{"label": "palm-oil", "description": "News articles specifically focused on palm oil-related topics."}
+{"label": "stg", "description": "News articles about the sterling pound (GBP) and foreign exchange."}
+{"label": "hog", "description": "News articles covering the hog (pig) market."}
+{"label": "retail", "description": "News articles related to the retail industry."}
+{"label": "yen", "description": "News articles about the Japanese yen (JPY) and foreign exchange."}
+{"label": "alum", "description": "News articles related to the aluminum industry."}
+{"label": "soy-oil", "description": "News articles related to soybean oil."}
+{"label": "income", "description": "News articles covering income and wages."}
+{"label": "cocoa", "description": "News articles about the cocoa market."}
+{"label": "rubber", "description": "News articles specifically focused on the rubber industry."}
+{"label": "orange", "description": "News articles related to the orange market."}
+{"label": "soy-meal", "description": "News articles specifically focused on soybean meal-related topics."}
+{"label": "rapeseed", "description": "News articles concerning the rapeseed market."}
+{"label": "heat", "description": "News articles related to heating oil and energy markets."}
+{"label": "lumber", "description": "News articles covering the lumber and timber industry."}
+{"label": "tea", "description": "News articles specifically focused on tea-related topics."}
+{"label": "austdlr", "description": "News articles related to the Australian dollar (AUD) and foreign exchange."}
+{"label": "bfr", "description": "News articles about the Belgian franc (BEF) and foreign exchange."}
+{"label": "can", "description": "News articles specifically focused on Canada and its economy."}
+{"label": "castor-oil", "description": "News articles related to castor oil."}
+{"label": "castorseed", "description": "News articles covering the castor seed market."}
+{"label": "citruspulp", "description": "News articles concerning citrus pulp and its applications."}
+{"label": "coconut", "description": "News articles about the coconut industry."}
+{"label": "coconut-oil", "description": "News articles specifically focused on coconut oil."}
+{"label": "copra-cake", "description": "News articles related to copra cake."}
+{"label": "corn-oil", "description": "News articles about corn oil."}
+{"label": "cornglutenfeed", "description": "News articles related to corn gluten feed."}
+{"label": "cotton-oil", "description": "News articles about cottonseed oil."}
+{"label": "cottonseed", "description": "News articles concerning the cottonseed market."}
+{"label": "cpu", "description": "News articles about the Central Processing Unit (CPU) and computer technology."}
+{"label": "dfl", "description": "News articles related to the Deutsche Mark (DEM) and foreign exchange."}
+{"label": "dkr", "description": "News articles about the Danish krone (DKK) and foreign exchange."}
+{"label": "dmk", "description": "News articles specifically focused on the Deutsche Mark (DEM) and foreign exchange."}
+{"label": "f-cattle", "description": "News articles covering the live cattle market."}
+{"label": "fishmeal", "description": "News articles related to fishmeal."}
+{"label": "groundnut", "description": "News articles about groundnuts (peanuts)."}
+{"label": "groundnut-oil", "description": "News articles about groundnut oil."}
+{"label": "hk", "description": "News articles related to Hong Kong and its economy."}
+{"label": "instal-debt", "description": "News articles concerning instalment debt and credit."}
+{"label": "inventories", "description": "News articles about inventories and stockpiles."}
+{"label": "jet", "description": "News articles specifically focused on the jet fuel market."}
+{"label": "l-cattle", "description": "News articles covering the lean cattle market."}
+{"label": "lin-meal", "description": "News articles related to linseed meal."}
+{"label": "lin-oil", "description": "News articles specifically focused on linseed oil."}
+{"label": "linseed", "description": "News articles concerning the linseed market."}
+{"label": "lit", "description": "News articles about Lithuanian litas (LTL) and foreign exchange."}
+{"label": "naphtha", "description": "News articles related to naphtha and its use in the petrochemical industry."}
+{"label": "nickel", "description": "News articles covering the nickel market."}
+{"label": "nkr", "description": "News articles about the Norwegian krone (NOK) and foreign exchange."}
+{"label": "nzdlr", "description": "News articles about the New Zealand dollar (NZD) and foreign exchange."}
+{"label": "oat", "description": "News articles concerning oats and its applications."}
+{"label": "palladium", "description": "News articles related to the palladium market."}
+{"label": "palmkernel", "description": "News articles specifically focused on palm kernel."}
+{"label": "peseta", "description": "News articles about the Spanish peseta (ESP) and foreign exchange."}
+{"label": "platinum", "description": "News articles covering the platinum market."}
+{"label": "plywood", "description": "News articles related to the plywood industry."}
+{"label": "pork-belly", "description": "News articles covering the pork belly market."}
+{"label": "potato", "description": "News articles related to potatoes and their applications."}
+{"label": "propane", "description": "News articles concerning propane and its use."}
+{"label": "rand", "description": "News articles about the South African rand (ZAR) and foreign exchange."}
+{"label": "rape-meal", "description": "News articles specifically focused on rape meal (canola meal)."}
+{"label": "rape-oil", "description": "News articles related to rape oil (canola oil)."}
+{"label": "red-bean", "description": "News articles about red beans and their applications."}
+{"label": "ringgit", "description": "News articles about the Malaysian ringgit (MYR) and foreign exchange."}
+{"label": "rupiah", "description": "News articles about the Indonesian rupiah (IDR) and foreign exchange."}
+{"label": "rye", "description": "News articles specifically focused on rye and its applications."}
+{"label": "saudriyal", "description": "News articles about the Saudi riyal (SAR) and foreign exchange."}
+{"label": "sfr", "description": "News articles about the Swiss franc (CHF) and foreign exchange."}
+{"label": "skr", "description": "News articles specifically focused on the Swedish krona (SEK) and foreign exchange."}
+{"label": "sun-meal", "description": "News articles related to sunflower meal."}
+{"label": "sun-oil", "description": "News articles specifically focused on sunflower oil."}
+{"label": "sunseed", "description": "News articles concerning the sunseed market."}
+{"label": "tapioca", "description": "News articles related to tapioca and its applications."}
+{"label": "wool", "description": "News articles covering the wool industry."}
