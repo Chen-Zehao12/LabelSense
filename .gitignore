@@ -148,3 +148,5 @@ output/*
 !output/result.csv
 
 pretrained_model/*
+
+.DS_Store
